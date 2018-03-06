@@ -78,3 +78,9 @@ theme: drearylands
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# hexo-include-markdown plugin
+## Doc: www.npmjs.com/package/hexo-include-markdown
+include_markdown:
+  dir: notes
+  verbose: true
