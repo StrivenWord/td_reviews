@@ -16,9 +16,9 @@ Twenty five years have elapsed for us since the sadly nostalgic, winebibbing Lon
 
 This brew is neither altogether dark and strong and bitter, nor can its flavor be described as light or weak. Instead, this brew is full and deep but not very fine. If in 2018 the draught may taste a bit stale, the critic needs only consider the farflung ingredients in order to appreciate the enriching impact of the whole blend.
 
-Immediately from the title narration delivered in character by Londo's actor Peter Jurasik, *The Gathering* accumulates stylistic beats from widely disparate
+Immediately from the title narration delivered in character by Londo's actor Peter Jurasik, *The Gathering* accumulates stylistic beats from widely disparate taxonomies of themes.
 
-Many grains have
+We hear about the "Third Age," using the convention of sequential ages demarcated by cataclysmic events found in multiple epic fantasy franchises. *The Lord of the Rings* is set in its universe's Third Age, and *Babylon 5*'s creator J. Michael Straczynski is not the only author to have used similar nomenclature to evoke the dramatic grandeur and archetypal imagery that have grown beyond the genre boundary of high mythological fantasy. Tolkien's influence is yet to be revealed in its strongest manifestations, but here in the pilot film we are already looking down through the lost legacies of decadent civilizations, exploring wastelands where great powers left behind legends, {races -- ancient kindreds -- tensions -- narratives}
 
 now in 2018 as in "Earth year" 2257 of the pilot's setting
 
@@ -29,3 +29,5 @@ It feels like a real world, and it feels like *our* world. (Of course, the point
 In doing so, tied in fantasy themes decadence civilization positive about humanity but also fantasy falling
 
 both affirms sci-fi convention of human centrism and works against it fantasy style
+
+[But it's a place -- biblical sounding -- ]
