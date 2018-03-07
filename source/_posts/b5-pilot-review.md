@@ -32,8 +32,7 @@ now in 2018 as in "Earth year" 2257 of the pilot's setting
 
 It feels like a real world, and it feels like *our* world. (Of course, the point of using the trappings of space opera is that it isn't only one boring little world, it's a cosmos full of many worlds. This escape from boring boring boring that still feels normal normal........)
 
-In doing so, tied in fantasy themes decadence civilization positive about humanity but also fantasy falling
 
-both affirms sci-fi convention of human centrism and works against it fantasy style
+{ But it's a place -- biblical sounding -- }
 
-[But it's a place -- biblical sounding -- ]
+{ It would be wrong to say that scifi setting and mythology theme is the most important thing about B5/Gathering --     CHARACTERS ARE CRITICALLY IMPORTANT TOOOOOOO }
