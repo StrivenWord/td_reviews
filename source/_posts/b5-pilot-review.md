@@ -22,7 +22,9 @@ We hear about the "Third Age," using the convention of sequential ages demarcate
 
 But though steeped in the literary imagery of the fantasy epic, *Babylon 5* falls fully within the science fiction family. It is not a science fantasy after the fashion of *Star Wars*. Though the language of epic fantasy is used in the title narration, the fact that Earth in the year 2257 is just now beginning *Babylon 5*'s Third Age suggests which side of the scale the series is inherently weighted toward. Instead of being set at the end of a long Age, striving to prevent a great foreordained apocalypse or working toward a great enlightenment, *The Gathering* is set on the inside of a threshhold. All the strife and drama leading up to this threshhold compose the movie's backstory, but the emphasis of both tone and story is from the outset optimistic and progressive. Unlike *Star Trek*, *Babylon 5* does not identify progress with utopianism or materialism. The way that the series will balance its centrality of humanity as a work of progressive science fiction with its high mythological sense of transcendental destiny remains to be seen.
 
-As science fiction, *The Gathering* lays out most of the ecclectic qualities that defy simple categorization on the "hard" to "soft" scale of scientific accuracy or realistic future possibility.
+As science fiction, *The Gathering* lays out some of the ecclectic qualities that that make *Babylon 5* impossible to measure on the "hard" to "soft" scale of scientific accuracy or realistic future possibility, though *The Gathering* perhaps shows off the serires' *harder* side more, leaving the more mystical elements to be intertwined by coming episodes with the science fiction to be suggest by the mythological imagery. The one explictly *soft* element highlighted by the pilot is telepahty. The existence and prevalence of human telepaths is easily the most difficult aspect of the setting to buy into, but here
+
+The setting exudes a contemporary realism that reinforces the harder aspects of the science fiction while
 
 { cyberpunk }
 
