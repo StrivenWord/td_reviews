@@ -18,11 +18,17 @@ This brew is neither altogether dark and strong and bitter, nor can its flavor b
 
 Immediately from the title narration delivered in character by Londo's actor Peter Jurasik, *The Gathering* accumulates stylistic beats from widely disparate taxonomies of themes.
 
-We hear about the "Third Age," using the convention of sequential ages demarcated by cataclysmic events found in multiple epic fantasy franchises. *The Lord of the Rings* is set in its universe's Third Age, and *Babylon 5*'s creator J. Michael Straczynski is not the only author to have used similar nomenclature to evoke the dramatic grandeur and archetypal imagery that have grown beyond the genre boundary of high mythological fantasy. Tolkien's influence is yet to be revealed in its strongest manifestations, but here in the pilot film we are already looking down through the lost legacies of decadent civilizations, exploring wastelands where great powers left behind legends, {races -- ancient kindreds -- tensions -- narratives}
+We hear about the "Third Age," using the convention of sequential ages demarcated by cataclysmic events found in multiple epic fantasy franchises. *The Lord of the Rings* is set in its universe's Third Age, and *Babylon 5*'s creator J. Michael Straczynski is not the only author to have used similar nomenclature to evoke the dramatic grandeur and archetypal imagery that have grown beyond the genre boundary of high mythological fantasy. Tolkien's influence is yet to be revealed in its strongest manifestations, but here in the pilot film we are already staring backward at the legacies of decadent civilizations and hearing the evening lament of ancient races diminishing into the twilight as younger kindreds with incompatible destinies rise to replace them.
+
+But though steeped in the literary imagery of the fantasy epic, *Babylon 5* falls fully within the science fiction family. It is not a science fantasy after the fashion of *Star Wars*. Though the language of epic fantasy is used in the title narration, the fact that Earth in the year 2257 is just now beginning *Babylon 5*'s Third Age suggests which side of the scale the series is inherently weighted toward. Instead of being set at the end of a long Age, striving to prevent a great foreordained apocalypse or working toward a great enlightenment, *The Gathering* is set on the inside of a threshhold. All the strife and drama leading up to this threshhold compose the movie's backstory, but the emphasis of both tone and story is from the outset optimistic and progressive. Unlike *Star Trek*, *Babylon 5* does not identify progress with utopianism or materialism. The way that the series will balance its centrality of humanity as a work of progressive science fiction with its high mythological sense of transcendental destiny remains to be seen.
+
+As science fiction, *The Gathering* lays out most of the ecclectic qualities that defy simple categorization on the "hard" to "soft" scale of scientific accuracy or realistic future possibility.
+
+{ cyberpunk }
 
 now in 2018 as in "Earth year" 2257 of the pilot's setting
 
-But even before Mollari's actor Peter Jurasik narrated in character the opening sequence for *Babylon 5*'s grand overture,
+{ telepaths as social revolution }
 
 It feels like a real world, and it feels like *our* world. (Of course, the point of using the trappings of space opera is that it isn't only one boring little world, it's a cosmos full of many worlds. This escape from boring boring boring that still feels normal normal........)
 
