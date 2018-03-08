@@ -28,13 +28,11 @@ The tactfully employed technobabble implicates another science fiction sub-genre
 
 The feeling associated with the cyberpunk elements is also built up by the appearance and operation of the common everyday technologies that the characters use. *The Gathering* features identification cards that interface with terminals to display the carrier's identifying information. That one realistic application of understandable technologies lends a sense of timelessness. Something like it could have been implemented in 1993; today in 2018 we almost expect it to exist.
 
-?? Naturally, cyberpunk is the science fiction sub-genre that we recognize from everyday life in our 21st century. ??
+Not only is the concept of the identicards understandable, but the design of the terminal display -- shown prominently as a plot and character development device -- has aged remarkably well, the font reminiscient of alarm clock numerals notwithstanding. Granted, the DOS-like output looks timelessly old (though we've seen the return of the command line to the popular consciousness in the past ten years or so), and at any rate other tech seen in *The Gathering* now looks definitively retro -- curved CRT monitors, for a chief example. This is a *retro* old, an outdatedness that blends with the decade reflecting hairstyles and the oldschool geek spaceships and control consoles and campy sci-fi miscellany. The special effects have aged at least as poorly as the CRT monitors, with the computer rendered exterior space frames and the title graphics being glaringly crude and surreal today. 
 
-Not only is the concept of the identicards understandable, but the design of the terminal display -- shown prominently as a plot and character development device -- has aged remarkably well, the font reminiscient of alarm clock numerals notwithstanding.  
+Perhaps we can't definitively identifying which parts of the retro aesthetic were once inherent and which are only now so interpreted. Like a familiar pair of leather boots or a baseball mitt, the campy retro aesthetic has worn in over time. Contemporary audience members already familiar either with genre conventions or with the now popular 80's revivalism should be able to view *The Gathering* as the earnest mythological story that it is without its seriousness being compromized by its aesthetic.
 
-Not all the tech seen in *That Gathering* has aged nearly so well, and the special effects { are old too }
-
-The retro { combines with the campy, cyberpunk, etc }
+The retro aesthetic combines with the cyberpunk to craft the setting into a bridge that unites the viewers' present world with the mystery and adventure found in the genre elements. Naturally, cyberpunk is the science fiction sub-genre that we recognize from everyday life in our 21st century. The sub-genre best serves not as a projection of possible tomorrows but as an actualization of potential todays. In *The Gathering*, the espionage plot serves alongside background dialog to deliver what will become one of the primary story elements of *Babylon 5* -- politics. Twentieth century political narratives are both explictly named and referenced. There is both a direct continuity to the modern histories that we remember in the show's backstory chronology and strongly implied parallels between the sociopolitical situation between the galactic civilizations and the Cold War era politics during which *The Gathering* was created.
 
 { -- use cyberpunk as real life to transition into politics -- }
 
@@ -43,6 +41,19 @@ The setting exudes a contemporary realism. Partly created by the harder science 
 It feels like a real world, and it feels like *our* world. (Of course, the point of using the trappings of space opera is that it isn't only one boring little world, it's a cosmos full of many worlds. This escape from boring boring boring that still feels normal normal........)
 
 { And inhabiting this political world/story are these characters..... }
+
+    { -> Lyta Alexander }
+    { -> Carolyn Sykes }
+    { -> Jeffrey Sinclair }
+    { -> Carolyn Sykes }
+    { -> Laurel Takashima }
+    { -> Benjamin Kyle }
+    { -> Michael Garibaldi }
+    { -> Delenn }
+    { -> G'Kar }
+        { -> The other "Shapeshifter" }
+    { -> Londo }
+    { -> Kosh }
 
 { -- Tie the "prediction" about not all the characters returning for the regular show into the closing of the review. -- }
 
