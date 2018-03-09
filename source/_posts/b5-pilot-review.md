@@ -36,6 +36,10 @@ The retro aesthetic combines with the cyberpunk to craft the setting into a brid
 
 The world portrayed in *The Gathering* feels like a real world, and it feels like *our* world. That world is *Babylon 5*, the space station. Named in the likeness of the biblical Babylon -- a place of sin and captivity and political oppression and intercultural ambiguity in the Old Testament -- this Babylon serves as a stage where great mythological narratives and sweeping political machinations intersect with the stories of common people both sympathetic and and apalling, both familiar and alien, both powerful and weak, both evil and righteous. Of course, the point of the space opera backdrop is that the setting is not just one boring little world, it's a cosmos full of many worlds, and worlds yet to be discovered. We are gathered in to consider the great themes of our histories and cultures from a platform as small and cluttered and chaotic as the Babylon that we know.
 
+This is how the intricately constructed setting and grandiose thematic overtones are all directed toward the people whose paths lie through this little Babylon. Perhaps more than its rival space opera franchises *Star Trek* and *Star Wars*, *Babylon 5* is stabilized by its characters. *Star Trek* can reach for strange new worlds to cover for a dearth of character building; and in *Star Wars* the mythology is central, with character being subservient to mythology. Though *Babylon 5* could never be complete without its setting or its mythology -- indeed, the space station is a character in its own right, while the monomyth template applies to certain of its characters almost as strongly as to Luke Skywalker -- the structure and aesthetic of the franchise seems to direct all other concerns toward the characters.
+
+*The Gathering* casts the ensemble into three categories -- the human crew of the space station, the alien ambassadors, and Lyta Alexander.
+
 { And inhabiting this political world/story are these characters..... }
 
     { -> Lyta Alexander }
