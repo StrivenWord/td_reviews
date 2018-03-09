@@ -40,6 +40,10 @@ This is how the intricately constructed setting and grandiose thematic overtones
 
 *The Gathering* casts the ensemble into three categories -- the human crew of the space station, the alien ambassadors, and Lyta Alexander.
 
+Debriefed at the beginning of the film and escorted through the plot, Lyta serves as the primary audience avatar, a companion along with whom we share our first exposure to this belligerant, exuberant, yet deeply mysterious environment. Lyta is made out to be at once competant and sympathetic -- a professional whose naievete regarding her { rowdy } new environment is { passed over bravely, endured through straightfaced, taken with a good attitude } by a gruff sarcasm. She seems very much like an average businesswoman from the 90's.
+
+But Lyta Alexander is a telepath. Portraying the { hardest to understand / believe in } aspect of the worldbuilding by a character who is both sympathetic and otherwise mundane aids in using the speculative element as a { special thing to increase interest }, while serving as wish fulfillment.
+
 { And inhabiting this political world/story are these characters..... }
 
     { -> Lyta Alexander }
@@ -56,8 +60,6 @@ This is how the intricately constructed setting and grandiose thematic overtones
     { -> Kosh }
 
 { -- Tie the "prediction" about not all the characters returning for the regular show into the closing of the review. -- }
-
-{ cyberpunk }
 
 now in 2018 as in "Earth year" 2257 of the pilot's setting
 
