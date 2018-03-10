@@ -1,0 +1,19 @@
+// Styles for an informational section displayed above post content
+
+aside.infobox
+  @media mq-normal
+    float: right
+    width: 33.33%
+    margin-left: 1rem
+  @media mq-tablet
+    width: 66.67%
+    margin: 0 auto
+  background-color: color-default
+  color: color-background
+  padding: 1rem
+  p
+    margin: 0.25rem 0
+    &:first-child
+      margin-top: 0
+    &:last-child
+      margin-bottom: 0
