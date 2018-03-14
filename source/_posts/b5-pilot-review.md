@@ -34,7 +34,7 @@ Our guide through this familiarly alien future of politics colliding with social
 > "One last thing, Commander. Why is it called *Babylon 5*?"
 > "*Baylon*&rsquo;s 1, 2, and 3 were sabotaged and destroyed. Number 4 vanished without a trace 24 hours after becoming operational. To this day, no one knows what happened to it."
 > "Swell."
-> -- Lyta Alexander to Commander Jeffrey Sinclair, timestamp 08:30
+> <footer><cite>Lyta Alexander to Commander Jeffrey Sinclair, timestamp 08:30</cite></footer>
 
 But Lyta is a telepath. Having the audience stand-in character embody the aspect of the worldbuilding that is potentially the most difficult to buy into is a stroke of both wish-fulfillment and plot development that balances the eclectic mix of genre elements. As science fiction, *Babylon 5* defies simple classification on the "hard" to "soft" scale of scientific accuracy and realistic future possibility; a "hard" realism comes from showing artificial gravity to be produced by the centrifugal force of a rotating hull, for instance. Telepathy is one of the "soft" elements, working along with the cyberpunk gadgetry to produce the comic book vibe that forms one part of the aesthetic. Here, Lyta's telepathy reinforces her outsider status while extending her empathy. This alien, preternatural, involuntary empathy of Lyta's helps to establish the parallels between her role in the plot and the social plight of women navigating the gender politics of the contemporary workplace.
 
