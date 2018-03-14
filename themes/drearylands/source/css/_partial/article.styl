@@ -67,6 +67,9 @@
     height: auto
     display: block
     margin: auto
+    // NEW -- extra top padding if the image or video is the first thing in this div
+    &:first-child
+      padding-top: 2.2em
   iframe
     border: none
   table
