@@ -2,7 +2,8 @@
 title: 'Voices from Babylon: Into One Cup'
 <!-- subtitle: Review of the <i>Babylon 5</i> pilot movie <i>The Gathering</i> -->
 date: 2018-03-05 09:21:16
-tags: show, television, mythopoeic, scifi, space opera
+tags: [television, space opera, mythology]
+categories: [commentary]
 ---
 {% asset_img voices-from-babylon.jpg "Voices from Babylon 'review series banner depicting a generic cylindrical space ship orbiting a planet'" %}
 
