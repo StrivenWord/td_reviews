@@ -35,6 +35,15 @@
   <% } %>
 </article>
 
+<section id="discussion">
+  <p>Talk to the reviewer about this post:</p>
+  <div>
+    <%- partial('_blocks/svg_email') %>
+    <%- partial('_blocks/svg_facebook-logo') %>
+    <%- partial('_blocks/svg_twitter-logo') %>
+  </div>
+</section>
+
 <% if (!index && post.comments && config.disqus_shortname){ %>
 <section id="comments">
   <div id="disqus_thread">
