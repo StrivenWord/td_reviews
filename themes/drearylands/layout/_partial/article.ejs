@@ -35,14 +35,16 @@
   <% } %>
 </article>
 
+<% if (!index){ %>
 <section id="discussion">
-  <p>Talk to the reviewer about this post:</p>
-  <div>
+  <p class="note">Talk to the reviewer about this post:</p>
+  <div class="badgelist">
     <%- partial('_blocks/svg_email', {size: '80'}) %>
     <%- partial('_blocks/svg_facebook-logo', {size: '80'}) %>
     <%- partial('_blocks/svg_twitter-logo', {size: '80'}) %>
   </div>
 </section>
+<% } %>
 
 <% if (!index && post.comments && config.disqus_shortname){ %>
 <section id="comments">
