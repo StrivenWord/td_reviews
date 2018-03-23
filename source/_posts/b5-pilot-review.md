@@ -1,5 +1,6 @@
 ---
 title: 'Voices from Babylon: Into One Cup'
+image_credit: Stock image from Bigstock. Design by Strivenword.
 <!-- subtitle: Review of the <i>Babylon 5</i> pilot movie <i>The Gathering</i> -->
 date: 2018-03-15 09:21:16
 tags: [television, space opera, mythology]
