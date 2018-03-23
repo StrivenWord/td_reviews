@@ -14,3 +14,31 @@
   font-size: 0.85em
   
 // NEW -- attributions section
+attrborder = 1px dashed color-background
+#attributions
+  display: flex
+  align-items: center
+  justify-content: space-between
+  margin: 1rem 0
+  padding: 1rem 0
+  border-bottom: attrborder
+  @media mq-mobile
+    display: block
+
+[class$="attr"] // NEW
+  // flex-grow: 1
+  h2
+    font-weight: bold
+  &:first-of-type
+    [rel="license"] > img
+      margin-bottom: 1rem
+  &:last-of-type
+    flex-grow: 3
+  @media mq-mobile
+    margin-top: 1rem
+    a, span, p
+      font-size: 0.85rem
+
+#footer-closer
+  color: color-background
+  margin-top: 3rem
