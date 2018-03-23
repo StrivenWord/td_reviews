@@ -20,11 +20,13 @@ With the possible exception of small fragments of text that are part of the them
 
 As a software repository, this project is released under the MIT Lincense. However, the content of the blog posts is not intended to be used under the MIT Lincense.
 
-Instead, all blog content in this project -- with the exception of the content in the inital default post file *hello-world.md -- is hereby released under the Creative Commons Attribution-NoDerivatives 4.0 International ([CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)).
+For the purposes of licensing, each blog post is considered a separate textual work. Images included in the blog posts are *not* considered to be part of the work and are not covered under the same licensing. Copyright information and/or licensing notes for illustrations or graphic art may appear in the footer of each page displaying a full blog post. Images that are screenshots of video frames or reproductions of cover or box art are used for critique only.
+
+The text of all blog posts in this project -- with the exception of the content in the inital default post file *hello-world.md -- are released under the Creative Commons Attribution 4.0 International ([CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)) license.
 
 # Attribution
 
-To satisfy the attribution requirement of the **CC BY-ND 4.0**, in addition to specifying that the author is Paul Lee, when possible link directly to the specific blog posts that have been redistributed or to the blog's homepage. You may also link to the author's Twitter [profile](https://twitter.com/StrivenWord) (@StrivenWord). If linking to the Twitter profile, you may optionally credit the pseudonym **strivenword** (or **StrivenWord**), or the d/b/a entity **The Striven Word** instead of or alongside of the name Paul Lee.
+To satisfy the attribution requirement of the **CC BY 4.0**, in addition to specifying that the author is Paul Lee, when possible link directly to the specific blog posts that have been redistributed or to the blog's homepage. You may also link to the author's Twitter [profile](https://twitter.com/StrivenWord) (@StrivenWord). If linking to the Twitter profile, you may optionally credit the pseudonym **strivenword** (or **StrivenWord**), or the d/b/a entity **The Striven Word** instead of or alongside of the name Paul Lee.
 
 # Contact
 
