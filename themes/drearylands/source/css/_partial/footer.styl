@@ -24,6 +24,8 @@ attrborder = 1px dashed color-background
   border-bottom: attrborder
   @media mq-mobile
     display: block
+  @media mq-normal
+    padding-bottom: 1.79rem // Accounting for relative positioning displacement of the 'img-attr' text
 
 [class$="attr"] // NEW
   // flex-grow: 1
@@ -56,6 +58,13 @@ attrborder = 1px dashed color-background
     flex-direction: column
     align-items: center
     justify-content: baseline
+
+.img-attr
+  position: relative
+  @media mq-tablet
+    top: 0.79rem
+  @media mq-normal
+    top: 0.79rem
 
 #footer-closer
   color: color-background
