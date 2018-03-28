@@ -1,0 +1,14 @@
+<div id="attributions">
+    <div class="cc-attr">
+      <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+      <p>The main textual content published on this page,<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">&ldquo;<%= page.title %>,&rdquo;</span> <span class="meta">by <a xmlns:cc="http://creativecommons.org/ns#" href="http://reviews.transcendentdestinies.net/2018/03/b5-pilot-review/" property="cc:attributionName" rel="cc:attributionURL">Strivenword</a></span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<span class="meta"><br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://reviews.transcendentdestinies.net/2018/03/b5-pilot-review/" rel="dct:source">http://reviews.transcendentdestinies.net/2018/03/b5-pilot-review/</a>.</span> Images and illustrations are not included in this licensing.</p>
+    </div>
+    <% if (page.image_credit){ %>
+    <div class="img-attr">
+      <section>
+        <h2>Title image credits</h2>
+        <p><%- page.image_credit %></p>
+      </section>
+    </div>
+    <% } %>
+</div>
