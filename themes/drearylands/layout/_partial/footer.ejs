@@ -5,8 +5,10 @@
   <div class="outer">
     <div id="footer-info" class="inner">
       <%= // Creative commons code %>
-      <%- is_post() %> <%# END `if (page.layout === 'post')`%>
-      <%= // END Creative commons code %>
+      <!-- The layout is: <% page.layout %> -->
+      <% if (is_post()) { %>
+        <%- partial('_partial/post/post-attributions_footer.ejs') %>
+      <% } %><%#  END is_post() %>
       <%= __('powered_by') %> <a href="http://hexo.io/" target="_blank">Hexo</a>
       <div id="footer-closer">
         <p>soli deo gloria<p>
