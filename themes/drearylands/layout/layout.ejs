@@ -9,7 +9,13 @@
           <%- partial('_partial/sidebar', null, {cache: !config.relative_link}) %>
         <% } %>
       </div>
-      <%- partial('_partial/footer', null, {cache: !config.relative_link}) %>
+      <% if (page.path == "index.html") { %>
+      <!-- Yo! Index! -->
+      <%- partial('_partial/footer', {index: true, copyright: false}, {cache: !config.relative_link}) %>
+      <% } else { %>
+      <!-- Yo! Not index! -->
+      <%- partial('_partial/footer', {index: false, copyright: true}, {cache: !config.relative_link}) %>
+      <% } %>
     </div>
     <%- partial('_partial/mobile-nav', null, {cache: !config.relative_link}) %>
     <%- partial('_partial/after-footer') %>
