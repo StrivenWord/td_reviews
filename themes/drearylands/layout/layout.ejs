@@ -10,7 +10,7 @@
         <% } %>
       </div>
       <% if (page.path !== "index.html") { %>
-      <!-- Yo! Index! -->
+      <!-- Yo! Not index! -->
       <footer id="footer">
         <% if (theme.sidebar === 'bottom'){ %>
           <%- partial('_partial/sidebar') %>
@@ -40,7 +40,7 @@
         </div>
       </footer>
       <% } else { %>
-      <!-- Yo! Not index! -->
+      <!-- Yo! index! -->
       <footer id="footer">
         <% if (theme.sidebar === 'bottom'){ %>
           <%- partial('_partial/sidebar') %>
