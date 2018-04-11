@@ -6,6 +6,7 @@
       <div class="wrapbox">
         <h1 id="logo-wrap">
           <a href="<%- url_for() %>" id="logo"><%= config.title %></a>
+          <%- page.path %>
         </h1>
         <% if (theme.subtitle){ %>
           <h2 id="subtitle-wrap">
