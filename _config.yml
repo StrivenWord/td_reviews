@@ -77,6 +77,10 @@ theme: drearylands
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
+  type: git
+  repo: https://github.com/StrivenWord/td_reviews_public
+  branch: master
+  message: "Blog last published from dev repo: {{ now('YYYY-MM-DD HH:mm:ss') }}"
 
 # hexo-include-markdown plugin
 ## Doc: www.npmjs.com/package/hexo-include-markdown
