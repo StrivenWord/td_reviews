@@ -4,31 +4,19 @@ post_main_image: voices-from-babylon.jpg
 main_image_alt: review series banner depicting a generic cylindrical space ship orbiting a planet
 image_credit: Stock image from Bigstock. Design by Strivenword.
 meta_info: >
-  _The Gathering_ is the pilot movie for _Babylon 5_. It is
+  <em>The Gathering</em> is the pilot movie for <em>Babylon 5</em>. It is
   sometimes numbered as the first episode, while other sources
-  number _Midnight on the Firing Line_ as Episode 1.
+  number <em>Midnight on the Firing Line</em> as Episode 1.
   <br>
-  It was originally broadcast on **February 22, 1993**.
+  It was originally broadcast on <strong>February 22, 1993</strong>.
 <!-- subtitle: Review of the <i>Babylon 5</i> pilot movie <i>The Gathering</i> -->
 date: 2018-03-15 09:21:16
 tags: [television, space opera, mythology]
 categories: [commentary, spoilers]
 ---
-{% asset_img voices-from-babylon.jpg "Voices from Babylon 'review series banner depicting a generic cylindrical space ship orbiting a planet'" %}
 
 # Review of *The Gathering*
 
-{% raw %}
-<aside class="infobox" id="headnotes">
-    <p>(informational section placeholder)</p>
-<!-- Content:    -->
-<!--    _The Gathering_ is the pilot movie for _Babylon 5_. It is sometimes numbered as the first episode, while other sources number _Midnight on the Firing Line_ as Episode 1.
-
-It was originally broadcast on **February 22, 1993**.
-
-This post **contains spoilers** for *The Gathering*, but not for later episodes in the *Babylon 5* franchise. -->
-</aside>
-{% endraw %}
 Twenty five years have elapsed for us since the sadly nostalgic, winebibbing Londo Mollari first announced the dawn of the Third Age. In doing so, the ambassador teased the sincerely though bombastically portrayed concepts that combined uniquely within *Babylon 5* to brew a pop culture [mythopoeia](https://en.wikipedia.org/wiki/Mythopoeia) that -- unlike other media franchises -- also speaks strongly and immediately to the sociopolitical issues and power dynamics that that cause so much bitterness and strife in today's society. A faithful representation of what was to come after it in the regular episodes, *The Gathering* reached far and wide -- through worldbuilding to the synthesis of mythology, through eclectic genre conventions to hard science, through politics to contemporary social dynamics -- in order to prepare an assembly of character and setting elements brimming with the potential to express camaraderie, mystery, and catharsis. If in 2018 the critic might dismiss this brew as being garish or stale, tasters with less discriminating tongues will find the well-aged blend an enriching and stimulating draught.
 
 <!-- more -->
