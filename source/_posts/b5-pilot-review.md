@@ -1,6 +1,13 @@
 ---
 title: 'Voices from Babylon: Into One Cup'
+post_main_image: voices-from-babylon.jpg
 image_credit: Stock image from Bigstock. Design by Strivenword.
+meta_info: >
+  _The Gathering_ is the pilot movie for _Babylon 5_. It is
+  sometimes numbered as the first episode, while other sources
+  number _Midnight on the Firing Line_ as Episode 1.
+  <br>
+  It was originally broadcast on **February 22, 1993**.
 <!-- subtitle: Review of the <i>Babylon 5</i> pilot movie <i>The Gathering</i> -->
 date: 2018-03-15 09:21:16
 tags: [television, space opera, mythology]
@@ -12,9 +19,9 @@ categories: [commentary, spoilers]
 
 {% raw %}
 <aside class="infobox" id="headnotes">
-	<p>(informational section placeholder)</p>
-<!-- Content:	 -->
-<!-- 	_The Gathering_ is the pilot movie for _Babylon 5_. It is sometimes numbered as the first episode, while other sources number _Midnight on the Firing Line_ as Episode 1.
+    <p>(informational section placeholder)</p>
+<!-- Content:    -->
+<!--    _The Gathering_ is the pilot movie for _Babylon 5_. It is sometimes numbered as the first episode, while other sources number _Midnight on the Firing Line_ as Episode 1.
 
 It was originally broadcast on **February 22, 1993**.
 
