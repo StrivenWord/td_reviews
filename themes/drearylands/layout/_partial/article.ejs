@@ -13,7 +13,7 @@
     <div class="article-entry" itemprop="articleBody">
       <% if (post.post_main_image) { %>
         <!-- Post image variable post_main_image detected -->
-        <% image_tag(page.post_main_image) -%>
+        <img src="./assets/<%- post.post_main_image %>" alt="<%- post.main_image_alt %>">
       <% } %>
       <% if (post.excerpt && index){ %>
         <%- post.excerpt %>
