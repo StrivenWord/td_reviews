@@ -15,6 +15,9 @@
         <!-- Post image variable post_main_image detected -->
         <img src="./assets/<%- post.post_main_image %>" alt="<%- post.main_image_alt %>">
       <% } %>
+      <% if (post.subtitle) { %>
+        <%- post.subtitle %>
+      <%} %>
       <% if (post.meta_info) { %>
         <aside class="infobox" id="headnotes">
           <p>
