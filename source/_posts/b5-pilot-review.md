@@ -1,6 +1,6 @@
 ---
 title: 'Voices from Babylon: Into One Cup'
-subtitle: 'Review of <i>The Gathering</i>'
+subtitle: '<h2>Review of <i>The Gathering</i></h2>'
 post_main_image: voices-from-babylon.jpg
 main_image_alt: review series banner depicting a generic cylindrical space ship orbiting a planet
 image_credit: Stock image from Bigstock. Design by Strivenword.
@@ -15,8 +15,6 @@ date: 2018-03-15 09:21:16
 tags: [television, space opera, mythology]
 categories: [commentary, spoilers]
 ---
-
-# Review of *The Gathering*
 
 Twenty five years have elapsed for us since the sadly nostalgic, winebibbing Londo Mollari first announced the dawn of the Third Age. In doing so, the ambassador teased the sincerely though bombastically portrayed concepts that combined uniquely within *Babylon 5* to brew a pop culture [mythopoeia](https://en.wikipedia.org/wiki/Mythopoeia) that -- unlike other media franchises -- also speaks strongly and immediately to the sociopolitical issues and power dynamics that that cause so much bitterness and strife in today's society. A faithful representation of what was to come after it in the regular episodes, *The Gathering* reached far and wide -- through worldbuilding to the synthesis of mythology, through eclectic genre conventions to hard science, through politics to contemporary social dynamics -- in order to prepare an assembly of character and setting elements brimming with the potential to express camaraderie, mystery, and catharsis. If in 2018 the critic might dismiss this brew as being garish or stale, tasters with less discriminating tongues will find the well-aged blend an enriching and stimulating draught.
 
