@@ -32,5 +32,11 @@
   <% if (config.highlight.enable){ %>
     <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
   <% } %>
+  <% // CSS isn't output correctly on descendent pages using the default 'css' helper%>
+  <% if (!is_post()) { %>
   <%- css('css/style') %>
+  <% } %>
+  <% if (is_post()) { %>
+    <link rel="stylesheet" href="../../../css/style.css">
+  <% } %>
 </head>
