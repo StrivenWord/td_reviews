@@ -8,7 +8,6 @@
 
   if (is_archive()){
     title = __('archive_a');
-
     if (is_month()){
       title += ': ' + page.year + '/' + page.month;
     } else if (is_year()){
@@ -34,7 +33,7 @@
   <% } %>
   <% // CSS isn't output correctly on descendent pages using the default 'css' helper%>
   <% if (!is_post()) { %>
-  <%- css('css/style') %>
+    <link rel="stylesheet" href="./css/style.css">
   <% } %>
   <% if (is_post()) { %>
     <link rel="stylesheet" href="../../../css/style.css">
