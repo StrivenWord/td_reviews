@@ -13,7 +13,12 @@
     <div class="article-entry" itemprop="articleBody">
       <% if (post.post_main_image) { %>
         <!-- Post image variable post_main_image detected -->
+        <% if (is_post()) { %>
+          <img src="../../assets/<%- post.post_main_image %>" alt="<%- post.main_image_alt %>">
+        <% } %>
+        <% else { %>
         <img src="./assets/<%- post.post_main_image %>" alt="<%- post.main_image_alt %>">
+        <% } %>
       <% } %>
       <% if (post.subtitle) { %>
         <%- post.subtitle %>
