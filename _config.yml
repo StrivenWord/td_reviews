@@ -87,3 +87,9 @@ deploy:
 include_markdown:
   dir: notes
   verbose: true
+
+#hexo-generator-sitemap plugin
+## Doc: www.npmjs.com/package/hexo-generator-sitemap
+sitemap:
+  path: sitemap.xml
+  template: ./sitemap_template.xml
