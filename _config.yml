@@ -93,3 +93,14 @@ include_markdown:
 sitemap:
   path: sitemap.xml
   template: ./sitemap_template.xml
+
+#hexo-generator-feed plugin
+## Doc: https://github.com/hexojs/hexo-generator-feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 7
+  hub: https://pubsubhubbub.appspot.com/
+  content: true
+  content_limit: 280 # Only if previous line overwritten by post YAML
+  #content_limit_delim: ' '
