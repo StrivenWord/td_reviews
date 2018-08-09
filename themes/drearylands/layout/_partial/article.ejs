@@ -17,12 +17,23 @@
       <% } %>
       <% if (post.subtitle) { %>
         <%- post.subtitle %>
-      <%} %>
+      <% } %>
       <% if (post.meta_info) { %>
         <aside class="infobox" id="headnotes">
           <p>
             <%- post.meta_info %>
           </p>
+          <% if (!index) { %>
+            <% if (post.meta_affiliate_link) { %>
+              <p>Affiliate link: <a href="<%- post.meta_affiliate_link %>">
+              <% if (post.meta_affiliate_type) { %>
+                &nbsp;<i><%- post.meta_affiliate_type %></i></a>
+              <% } else { %>
+                <i>(purchase)</i></a>
+              <% } %>
+              </p>
+            <% } %>
+          <% } %>
         </aside>
       <% } %>
       <% if (post.excerpt && index){ %>
