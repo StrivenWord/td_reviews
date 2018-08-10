@@ -36,7 +36,7 @@
     <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
   <% } %>
   <% // CSS isn't output correctly on descendent pages using the default 'css' helper%>
-  <% if (page.layout === "page") { %>
+  <% if (page.layout === "page" || is_archive()) { %>
     <link rel="stylesheet" href="../css/style.css">
   <% } %>
   <% if (!is_post() && page.layout !== "page") { %>
