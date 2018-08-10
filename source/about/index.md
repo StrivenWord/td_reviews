@@ -1,10 +1,8 @@
 ---
-title: about
+title: About
 layout: page
 date: 2018-08-10 07:16:25
 ---
-
-# Transcendent Destinies About Page
 
 Transcendent Destinies is a blog for pulling apart all the little bricks that make up the things that inspire us, and putting them back together in configurations that show what part the little bricks have had in directing our imaginations skyward. Sometimes these artificial constructions may attempt to show how the original builders used them to create rare and praiseworthy wonder, and other times the element of human intention may be glossed over or ignored in favor of the new connections that are inherently possible do to the nature of the little bricks.
 
