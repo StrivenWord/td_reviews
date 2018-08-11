@@ -6,9 +6,11 @@ date: 2018-08-10 07:16:25
 
 Transcendent Destinies is a blog for pulling apart all the little bricks that make up the things that inspire us, and putting them back together in configurations that show what part the little bricks have had in directing our imaginations skyward. Sometimes these artificial constructions may attempt to show how the original builders used them to create rare and praiseworthy wonder, and other times the element of human intention may be glossed over or ignored in favor of the new connections that are inherently possible do to the nature of the little bricks.
 
-If this sounds deconstructive, it may be; but unless something has gone very wrong, these deconstructions will never be insensitive or destructive. Diminishing the delight from the unfiltered experience of these media works -- or harming the personal sanctuary that fans find within their fandoms -- is directly opposed to the purpose. All the analyzing and deconstructing is done with the intent of reveling in, amplifying, and when applicable remembering the joy we experience from cherished media. Transcendent Destinies is about discovering and celebrating the potential for glory achieved by creative media works, whether or not that potential was realized.
+If this sounds deconstructive, it may be; but unless something has gone very wrong, these deconstructions will not be destructive. Diminishing the delight from the unfiltered experience of these media works -- or harming the personal sanctuary that fans find within their fandoms -- is directly opposed to the purpose. All the analyzing and deconstructing is done with the intent of reveling in, amplifying, and when applicable remembering the joy we experience from cherished media. Transcendent Destinies is about discovering and celebrating the potential for glory achieved by creative media works, whether or not that potential was realized.
 
-This takes the form of original analytical reviews. The subjects of the reviews are specific published media works, either mainstream or indie -- books, television shows, computer games, music albums -- both old works with nostalgic value and recent works. The format of the reviews varies based on the subject. Some reviews, such as those of television episodes, may discuss the plot openly, while reviews only discuss themes and concepts. The body texts of the reviews are released under the terms of the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Images included with the text in blog posts are explicitly excluded from the Creative Commons licensing. Some of the images are original compositions created by digital artists and licensed by the reviewer; others are are made with licensed stock imagery.
+This takes the form of original analytical reviews. The subjects of the reviews are specific published media works, either mainstream or indie -- books, television shows, computer games, music albums -- both old works with nostalgic value and recent works. The format of the reviews varies based on the subject. Some reviews, such as those of television episodes, may discuss the plot openly, while reviews only discuss themes and concepts. Many of the posts are specific reviews of one particular work. Others are articles using multiple works to make a comparative point. Others might be overviews or lists; others might be thematic musings spun off from a media work.
+
+The body texts of the posts are released under the terms of the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Images included with the text in blog posts are explicitly excluded from the Creative Commons licensing. Some of the images are original compositions created by digital artists and licensed by the reviewer; others are are made with licensed stock imagery.
 
 ## Blog
 
@@ -16,7 +18,7 @@ This latest incarnation of Transcendent Destinies replaces a Blogger blog I post
 
 Tentatively, one review will be published each month, some time during the first weekend of the month.
 
-This blog is implemented using a static site generator; specifically, [Hexo](https://hexo.io/). It uses Hexo's default theme Landscape, with some mostly technical modifications. There is no commenting functionality. The website is hosted using [Netlify](https://www.netlify.com/).
+This blog is implemented using a static site generator; specifically, [Hexo](https://hexo.io/). It uses Hexo's default theme [Landscape](https://github.com/hexojs/hexo-theme-landscape) (&copy; 2013 Tommy Chen, relased under the MIT License), with some mostly technical modifications. There is no commenting functionality. The website is hosted using [Netlify](https://www.netlify.com/).
 
 ## Subscriptions
 
@@ -24,7 +26,7 @@ To be notified of future posts, use any of the many freely available feed reader
 
 ## Affiliate Links
 
-Although the main purpose of this blog is personal rather than commercial, sponsored affiliate links are being placed the informational boxes that appear near the top of each review. The affiliate links only appear on the pages for actual posts, not in the abridged versions of posts appearing on the homepage feed. The affiliate links always lead to a sponsored way to purchase some version of the media reviewed. (If there is a good way to experience the media thing for free, such as free streaming from a reputable source, that information will also appear in the informational box purely to be helpful for visitors.) These affiliate links are always labeled as such. If affiliate links also appear within the body text of a review, the footer of the webpage for the full post will contain a note indicating so.
+Although the main purpose of this blog is personal rather than commercial, sponsored affiliate links are being placed the informational boxes that appear near the top of each review. The affiliate links only appear on the pages for actual posts, not in the abridged versions of posts appearing on the homepage feed. The affiliate links usually lead to a sponsored way to purchase some version of the media reviewed. When they don't, the promoted product linked to will always be directly relevant to the subject of the review and will be noted explicitly. (If there is a good way to experience the media thing for free, such as free streaming from a reputable source, that information will also appear in the informational box purely to be helpful for visitors.) Affiliate links are always labeled as such. If affiliate links also appear within the body text of a review, the footer of the webpage for the full post will contain a note indicating so.
 
 Required disclaimer: **As an Amazon Associate, I receive a commission on qualified purchases.**
 
@@ -34,4 +36,6 @@ This website does not track visitors, does not use cookies, and saves no user su
 
 ## Reviewer
 
-Contact the reviewer and follow his other projects from the links on his [homepage](http://strivenword.com/).
+I'm an ecclectic multidisciplinary windbag trying to use my education and passion for media technology to create meaning in my own life and in any life that may happen upon my thoughts. Among my oldest interests was digital creativity on personal computers -- old school games of various sorts, web design and publishing of various sorts, hypertext fiction and art of various sorts (especially the traditional interactive fiction community). When I practice those interests, I do so from my perspective shaped by a reverence for authentic living mythology, fantastic storytelling, and human creativity as participation with the Divine.
+
+Contact me and follow my other projects from the links on my [homepage](http://strivenword.com/).
