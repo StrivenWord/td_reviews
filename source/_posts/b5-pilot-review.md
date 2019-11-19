@@ -10,9 +10,9 @@ meta_info: >
   number <em>Midnight on the Firing Line</em> as Episode 1.
   <br>
   It was originally broadcast on <strong>February 22, 1993</strong>.
-meta_affiliate_link: https://amzn.to/2AUktC3
+<!-- meta_affiliate_link: https://amzn.to/2AUktC3
 meta_affiliate_type: streaming
-internal_affiliate: false
+internal_affiliate: false -->
 date: 2018-03-15 09:21:16
 tags: [television, space opera, mythology]
 categories: [commentary, spoilers]

@@ -24,12 +24,12 @@ This blog is implemented using a static site generator; specifically, [Hexo](htt
 
 To be notified of future posts, use any of the many freely available feed reader apps for all major mobile platforms and operating systems or third party websites, and paste in the [link](http://www.transcendentdestinies.net/atom.xml) to this blog's feed (**http://www.transcendentdestinies.net/atom.xml**).
 
-## Affiliate Links
+<!-- ## Affiliate Links
 
 Although the main purpose of this blog is personal rather than commercial, sponsored affiliate links are being placed the informational boxes that appear near the top of each review. The affiliate links only appear on the pages for actual posts, not in the abridged versions of posts appearing on the homepage feed. The affiliate links usually lead to a sponsored way to purchase some version of the media reviewed. When they don't, the promoted product linked to will always be directly relevant to the subject of the review and will be noted explicitly. (If there is a good way to experience the media thing for free, such as free streaming from a reputable source, that information will also appear in the informational box purely to be helpful for visitors.) Affiliate links are always labeled as such. If affiliate links also appear within the body text of a review, the footer of the webpage for the full post will contain a note indicating so.
 
 Required disclaimer: **As an Amazon Associate, I receive a commission on qualified purchases.**
-
+ -->
 ## Privacy Policy
 
 This website does not track visitors, does not use cookies, and saves no user submitted data. Websites linked from affiliate links may track visitors across their websites and possibly outside of them as well.
