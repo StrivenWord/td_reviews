@@ -19,7 +19,7 @@ A little older, perhaps a little wiser, I will use this live action adaptation t
 
 And I would share with my younger self three observations.
 
-# Your right to be here is absolute, because you are here.
+## Your right to be here is absolute, because you are here.
 
 The Wheel of Time is about the fate of the world hanging on the conflicts resulting from the main characters' potential, which factions and adversaries want to control. The major theme that turns this concept into a narrative is inevitability. The three young men at the center of the books are born into determined destinies, while they and other characters find themselves invetibably swept up into the machinations of their world. That inevitability is precisely the truth of your reality.
 
@@ -29,6 +29,8 @@ You are the only person in human history to exist in your particular situation; 
 
 Whatever difficult dichotomies you may have to navigate, whatever engrossing problems or questions may lie beneath the circumstances leading you to have become a student, your particular story is one unique and inseparable thread in the shared context woven together out of our identities.
 You are already part of great things.
+
+## You are already part of great things.
 
 Much of the power of *The Wheel of Time* comes from the way it mixes philosophies and mythologies from historical civilizations and then takes us on a jaunty, popularly accessible tour of fictional cultures with recognizable facets of both East and West. The legends are all true, and you stand at their convergence. Your local community is one of the most diverse localities in America. You have only to look out your window to observe the connections arising out of the meeting place of different worldviews and legacies.
 
@@ -40,7 +42,7 @@ Great things are happening all around you, in your campus, in your neighborhood,
 
 When you realize that your choices regarding your identities and your communities influence so many people – those you left behind, those among whom you think you don’t belong – you will see that no matter what people may think of you, it is utterly impossible for you to be inconsequential. Your original childhood community will absolutely be affected by the decisions that you are making now. Whether you continue to identify with your original community or choose to leave it behind, whether they reject you, support you, or become estranged from you, you absolutely and inevitably influence them, just as you will never stop carrying their influence with you.
 
-You have everything you need.
+## You have everything you need.
 
 The Wheel of Time is also about circularity. History repeats itself, and people are reborn into the same pattern of circumstances, filling the same roles that many other lives have fulfilled before them. Now that we’ve established your absolute uniqueness, we must also acknowledge the fact that you are not unique in that the types of situations that you are experiencing have been repeating throughout human history. Succeed or fail, you can’t do experience anything that is not already accounted for. Although the world will be poorer if you fail to reconcile the contradictions brewing within you, the world always continues to turn, cycling past failures.
  
