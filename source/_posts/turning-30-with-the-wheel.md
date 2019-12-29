@@ -1,6 +1,9 @@
 ---
 layout: post
-title: 'Turning 30 with the Wheel: Reflections to a Young Student'
+title: 'Turning 30 with the Wheel'
+subtitle: 'Reflections on <em>The Wheel of Time</em> to a Young Student'
+post_main_image: turning-30-with-the-wheel.jpg
+main_image_alt: title graphic depicting the shadows of three people cast along a road at night
 date: 2019-12-28 13:43:23
 meta_info: >
   <em>The Wheel of Time</em> is a fantasy series by <strong>Robert Jordan</strong>. The series is currently being adapted into a streaming series on Amazon Prime.
