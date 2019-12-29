@@ -1,6 +1,6 @@
 ---
 title: 'Voices from Babylon: Into One Cup'
-subtitle: '<h2>Review of <i>The Gathering</i></h2>'
+subtitle: 'Review of <i>The Gathering</i>'
 post_main_image: voices-from-babylon.jpg
 main_image_alt: review series banner depicting a generic cylindrical space ship orbiting a planet
 image_credit: Stock image from Bigstock. Design by Strivenword.
