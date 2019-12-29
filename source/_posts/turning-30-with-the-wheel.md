@@ -2,7 +2,9 @@
 layout: post
 title: 'Turning 30 with the Wheel: Reflections to a Young Student'
 date: 2019-12-28 13:43:23
-tags:
+meta_info: >
+  <em>The Wheel of Time</em> is a fantasy series by <strong>Robert Jordan</strong>. The series is currently being adapted into a streaming series on Amazon Prime.
+tags: [fantasy, books, television]
 ---
 
 You stand in the center of mountain stadium, beneath the collective gaze of the spectators watching from the tiers rising around you into the peaks above. In front of you, the judges stare at you from their platform, their expressions as blank as those of the assorted masks hanging from a stand before you. You approach the stand to select a mask, but as you consider them, a gust of wind from the mountains catches you from behind, sifting through your hair and clothing to displace the masks, sending them dancing around each other in a jumble of shapes and colors.
@@ -33,6 +35,8 @@ You are already part of great things.
 ## You are already part of great things.
 
 Much of the power of *The Wheel of Time* comes from the way it mixes philosophies and mythologies from historical civilizations and then takes us on a jaunty, popularly accessible tour of fictional cultures with recognizable facets of both East and West. The legends are all true, and you stand at their convergence. Your local community is one of the most diverse localities in America. You have only to look out your window to observe the connections arising out of the meeting place of different worldviews and legacies.
+
+{% asset_img utica-wheel.jpg "The Wheel Weaves in Utica, New York" %}
 
 Talk to the people whose native language is different from your own. Talk to that professor; talk to that priest. Talk to your peers, and discover what you can build together in order to collectively bring the ancient traditions that shaped us forward into a fertile future full of meaning and fellowship.
 
