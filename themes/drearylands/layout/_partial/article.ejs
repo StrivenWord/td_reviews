@@ -16,7 +16,7 @@
           <img src="<%- config.url %>/assets/<%- post.post_main_image %>" alt="<%- post.main_image_alt %>">
       <% } %>
       <% if (post.subtitle) { %>
-        <%- post.subtitle %>
+        <strong class="post-subtitle"><%- post.subtitle %></strong>
       <% } %>
       <% if (post.meta_info) { %>
         <aside class="infobox" id="headnotes">
