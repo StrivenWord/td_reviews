@@ -39,7 +39,7 @@
   <% if (page.layout === "page") { %>
     <link rel="stylesheet" href="../css/style.css">
   <% } %>
-  <% if (is_archive()) {%>
+  <% if (is_archive() || is_category()) {%>
     <link rel="stylesheet" href="../../../css/style.css">
   <% } %>
   <% if (is_tag()) {%>
