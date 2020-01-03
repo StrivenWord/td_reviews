@@ -42,6 +42,9 @@
   <% if (is_archive()) {%>
     <link rel="stylesheet" href="../../../css/style.css">
   <% } %>
+  <% if (is_tag()) {%>
+    <link rel="stylesheet" href="../../../css/style.css">
+  <% } %>
   <% if (!is_post() && page.layout !== "page") { %>
     <link rel="stylesheet" href="./css/style.css">
   <% } %>
