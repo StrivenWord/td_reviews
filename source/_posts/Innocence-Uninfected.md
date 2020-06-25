@@ -11,7 +11,11 @@ I'm referring to the milieu of *A Plague Tale: Innocence*, last year's winner of
 
 We owe this masterpiece to Asobo Studio, a videogame development company from France whose other major project is a flight simulator software in collaboration with Microsoft. Self-described on their Facebook [page](https://www.facebook.com/pg/asobostudio/about/) as a self-sufficient independent studio of about 150 employees, both the company and its flagship project stradle the traditional dichotomy in the gaming realm of between the mainstream industry dominated by giant corporations with their armies of enslaved creators and indie teams of college buddies with much ambition and little sleep. Enter *A Plague Tale*, which applies a world model in third-person over-the-shoulder perspective that feels standard enough and expensive enough for a AAA experience, while the limited range of motion in the action mechanics and the disciplined efficiency in the implementation of a constrained number of secondary features together with the attention to artistry evidences an indie ethos.
 
+As a videogame, *A Plague Tale* integrates a few ludological elements to create linear progression through a series of game maps corresponding to the narrative chapters. The gameplay genre is definitively [stealth](https://en.wikipedia.org/wiki/Stealth_game), such that real-time action involves navigating the world model without alerting hostiles, from whom the player character can run (though trying to outrun the enemy soldiers is rarely a successful strategy) but against whom she cannot stand and fight. When a hostile catches Amicia **[NOTE: menion her name previously or work her name into this paragraph]**, a cutscene shows her brutal death, and the session reverts to the last checkpoint. Players will watch Amicia die pitifully many times during a successful playthrough. [Exception -- temp bossfight]
+
 [technology -> languages] [non-standard narrative]
+
+[Characters]
 
 Asobo -> languages -> France
 
