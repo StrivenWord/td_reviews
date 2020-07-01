@@ -1,19 +1,22 @@
 ---
 layout: index
-title: Innocence Uninfected
+title: Children of the First Pandemic
+subtitle: <em>A Plague Tale: Innocence</em> as Folktale
 date: 2020-06-24 02:09:40
 tags: [fantasy, low-fantasy, historical, pc-game]
 ---
 
 The year 2019 saw the outbreak of disease leading to widespread social unrest in Europe.
 
-I'm referring to the milieu of *A Plague Tale: Innocence*, last year's winner of the Steam Award for the best story-rich game. Lead characters Amicia De Rune and her little brother Hugo were fighting off the invisible forces of disease long either one or six hundred seventy two years before the entire population of the world began tweeting lockdown survival strategies. Unfortunately, these medieval noble kids can't isolate at home, though they do indeed benefit by keeping their distance. Targetted by a murderous Inquition, the siblings must flee for their lives, setting forth on a quest through castle keeps to church labyrinths to desiccated battlefields. As simple survival becomes a mission to rescue their parents' legacy and lore, trauma inflicted by both physical and spiritual horrors abuses their innocent psyches, but the infection running rampant through their whole world fails to break in to these noble hearts.
+I'm referring to the milieu of *A Plague Tale: Innocence*, last year's winner of the Steam Award for the best story-rich game. Lead characters Amicia De Rune and her little brother Hugo were fighting off the invisible forces of disease either one or six hundred seventy two years before the entire population of the world began tweeting lockdown survival strategies. Targetted by a murderous Inquition, these siblings can't isolate at home. As simple survival becomes a mission to rescue their parents' legacy and lore, trauma inflicted by both physical and spiritual horrors abuses their innocent psyches, but the infection running rampant through their whole world fails to break in to these noble hearts.
 
-Set in 1348, *A Plague Tale* shows life in medieval France progressively upended by the effects of the great pandemic that, historically, had arrived in Europe one year before. The fact that this artistic videogame was released almost exactly one year before the widespread lockdowns due to COVID-19 is so remarkable that players experiencing its survival horror narrative for the first time in 2020 are afforded a medievalized avatar of their daily zeitgeist. Not to say that playing the game was any less rewarding in 2019, I had rejoiced to find the vibe of pro-cultural folklore told to me by the voices and the courageous deeds of characters who vindicate the compromised struggle for heritage. The streamlined gameplay emphasizes mastery over victimization as the artistic yet photo-real aesthetic conveys the craftsy medieval ambience lying at the unity of the game's low fantasy narrative and its nerd-level historical detail. Never light but also never cynical, the game earns the emotional resonance of the epic through its twin dichotomies of a realistically dark story told from the perspective of a children's fantasy and of a traditionally fun gameplay experience created by an art-centric, character driven game design that excels with the streamlined focus of other award winning indie titles such as the 2012 PlayStation game *Journey*. Bridging the chasm between broken adulthood and the pure intensity of childhood, this game reawakens in players the desire to play.
+*A Plague Tale* is very difficult to define, as most good things tend to be.
+
+Set in 1348, *A Plague Tale* shows life in medieval France progressively upended by the effects of the great pandemic that, historically, had arrived in Europe one year before. The fact that this artistic videogame was released almost exactly one year before the widespread lockdowns due to COVID-19 is a remarkable coincidence that will inevitably affect the enduring legacy of this medievalized avatar of their daily zeitgeist. Not to say that playing the game was any less rewarding in 2019, I had rejoiced to find the vibe of pro-cultural folklore told to me by the voices and the courageous deeds of characters who vindicate the compromised struggle for heritage. The streamlined gameplay emphasizes mastery over victimization as the artistic yet photo-real aesthetic conveys the craftsy medieval ambience lying at the unity of the game's low fantasy narrative and its nerd-level historical detail. Never light but also never cynical, the game earns the emotional resonance of the epic through its twin dichotomies of a realistically dark story told from the perspective of a children's fantasy and of a traditionally fun gameplay experience created by an art-centric, character driven game design that excels with the streamlined focus of other award winning indie titles such as the 2012 PlayStation game *Journey*. Bridging the chasm between broken adulthood and the pure intensity of childhood, this game reawakens in players the desire to play.
 
 <!-- more -->
 
-Before we construe the appeal of this adorable and tragic game, let us consider its origin in the very country that serves as is it's setting, with the French videogame company Asobo Studio. Then, we can consider *A Plague Tale*'s relevance to our immediate context in comparison with the game's narrative milieu, set at the start of the 14th century's lethal pandemic. That will grant a useful platform for discussing the game's striking portrayal of medieval institutions in its fantasy inflected story. This simple videogame story pulls together place and time to simulate the perseverance of the just exemplified by its empathetic characters.
+Before we construe the appeal of this adorable and tragic game, let us consider its origin in the very country that serves as is it's setting. Then, we can consider *A Plague Tale*'s relevance to our immediate context in comparison with the game's narrative milieu, set at the start of the 14th century's lethal pandemic. That will grant a useful platform for discussing the game's striking portrayal of medieval institutions in its fantasy inflected story. This simple videogame story pulls together place and time to simulate the perseverance of the just exemplified by its empathetic characters.
 
 Asobo Studio leveraged their own authentic local community, the city of Bordeaux in southwestern France, for their muse. Asobo's Narrative Director Sébastien Renard [describes](https://www.reddit.com/r/Games/comments/bo2ygy/ama_we_are_asobo_studio_developers_of_a_plague/enc0k9j?utm_source=share&utm_medium=web2x) their inspiration drawn from their locality on Reddit: "As we're French, living in a city with a rich and heavy past, we walk all day long in the shadow of medieval monuments, so it helps imagine the way villages and cities were built, what the countryside looked like, etc." Self-described as a self-sufficient independent studio, only 45 people [participated](https://www.reddit.com/r/Games/comments/bo2ygy/ama_we_are_asobo_studio_developers_of_a_plague/enbrpab?utm_source=share&utm_medium=web2x) in the production, leading to the streamlined narrative focus and the disciplined delineation of features, branching out from the third-person over-the-shoulder live action world model and the central strategy of utilizing the environment to evade foes. **[Sentence about how long it took Asobo to create the game, if that info is available, or re-work into the subsequent sentence:]** This brilliant little team created a guided narrative experience where the boundaries of the implemented world invisibly direct players through the plot, employing very brief cutscenes as well as triggering dialog events during realtime gameplay.
 
@@ -21,6 +24,18 @@ Both the company and its flagship game straddle the dichotomy in the gaming real
 
 
 *A Plague Tale* incarnates the spirit of medieval European values in a realistic and artistically portrayed environment that expresses the purity of childhood ingenuity pitted against the horror of corruption exemplified by the rat infestation associated with the Black Death of the 14th century. The game takes players through a muted but also stark territory where recorded history overlaps with legend and with fantasy. Gameplay reliant on stealth mechanics causes players to experience the vulnerability of its protagonists, a teen girl with a slingshot and her epileptic younger brother, while sweeping them through ancestral castles and austere churches and arcane labyrinths on Windows PC and PlayStation. Unique in its combination of setting, gameplay mechanic, and tone, *A Plague Tale*'s emotional resonance comes from the way its own subjective character perseveres in the feeling of innocence as it narrates the perseverence of the just.
+
+---
+
+**[Other characters: Melie, Arthur, Roderick, etc.]**
+
+All this rich historical ambience supports the immersive, textured beauty that envelopes the audiovisual senses. Players are highly recommended to select *"immersive mode"* when beginning a new game. This option removes the user interface overlay, leaving the screen free of any distractions and the player free to forget that she is playing a game. This is also the closest thing to a difficulty selection; the "new game" interface notes that Immersive Mode requires the player to be more attentive. However, the actual impact on playability is negligible, removing the utility of the mimesis breaking HUD altogether.
+
+The dialog track complements the visuals in weaving the magical spell of blissful illusion. All the content is fully voiced three times over by three different casts in three different languages -- English, French, and German. Given the historical context, playing in either English or German feels like an odd cultural betrayal. Playing in Immersive Mode with the French dialog track would seem like the most appropriate way to experience the game, though the English dialog is also superb. The dialog language track can be changed any time during play and independently of the localization of the user interface.
+
+---
+
+
 
 
 **[Reverential imagery]**
@@ -57,6 +72,9 @@ Asobo -> languages -> France
 Story/characters "For it is also in France"
 
 It feels experimental, though it could also never be called *avant-garde*.
+
+- The innocent are safe by Right (Pearl reference)
+- The innecent preserve their identity as civilization and history crumble around them.
 
  If that medieval worldview may be depicted without the extra-cultural judgment that might be expected in the twenty-first century, it is at least manifest that this beautiful game provoke
 
