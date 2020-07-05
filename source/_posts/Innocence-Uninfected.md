@@ -8,12 +8,25 @@ date: 2020-06-24 02:09:40
 tags: [fantasy, low-fantasy, historical, pc-game]
 ---
 
-1.            Above-the-fold intro.
-1.1.          Attention step sentence *(Blessed Sally Durke)*
-1.2.          First full paragraph about main thesis: Plague tale is good because it's a mature game written from the perspective of childhood innocense that honors family without being family friendly
-1.2.1.        First sentence mentioning title. (Mentioning Steam Award is unnecessary.)
-1.2.1.1.      Secondary clause of this sentence indiciating what to introduce the game as.
-1.2.2.        Thesis setence(s).
+_1.            Above-the-fold intro.
+1.1.          Attention step sentence_
+The year 2019 saw the outbreak of disease leading to widespread social unrest in Europe.
+
+
+_1.2.          First full paragraph about main thesis: Plague tale is good because it's a mature game written from the perspective of childhood innocense that honors family without being family friendly_
+_1.2.1.        First sentence mentioning title. (Mentioning Steam Award is unnecessary.)_
+_1.2.1.1.      Secondary clause of this sentence indiciating what to introduce the game as._
+I'm referring to *A Plague Tale: Innocence*, last year's historical adventure game that won top honors for narrative achievement even as its praiseworthy young characters won the hearts of an adoring fanbase on Xbox One, Playstation 4, and personal computer.
+
+
+_1.2.2.        Thesis setence(s)._
+
+
+
+
+
+
+
 1.2.3.        One or more sentences introducing and naming Amicia and Hugo.
 1.2.4.        Last sentence of first paragraph teasing all the things that *A Plague Tale* is.
 1.3.          Brief pararaph (possibly only once sentence) about Coronavirus and the connection to the present.
