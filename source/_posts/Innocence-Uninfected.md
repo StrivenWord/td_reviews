@@ -20,9 +20,7 @@ I'm referring to *A Plague Tale: Innocence*, last year's historical adventure ga
 
 
 _1.2.2.        Thesis setence(s)._
-
-
-
+Launched one year before Coronavirus reset many of our expectations, *A Plague Tale* has been inspirational beyond its modest goals and its linear story due to its expectation shattering aesthetic: its appealing use of the values associated with childhood without being in the least "family friendly."
 
 
 
