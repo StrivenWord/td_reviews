@@ -26,12 +26,16 @@ _1.2.4.        Last sentence of first paragraph teasing all the things that *A P
 Achieved by its linear narrative structure oriented around the perspectives of its lead characters, *A Plague Tale* puts the vindicated resourcefulness of youth in an intense quest not only for the survival of the young heroes, but also for the preservation of their parents' legacy, their family history, and the tested wisdom of old age. Amicia of House De Rune, a fifteen-year-old noblewoman and the primary player character, must protect her five-year-old brother Hugo from being kidnapped by the Inquisition for mysterious reasons while fighting off hordes of supernaturally aggressive man-eating rats. A largely historical game set in 1348, one year after the rat-borne black death arrived in its milieu of southwestern France, *A Plague Tale* uses engaging, traditionally fun gameplay alongside its artistic and gently personal narrative structure to bridge the gap between broken adulthood and unspoiled childhood.
 **¶**
 
+_1.3.          Brief pararaph (possibly only once sentence) about Coronavirus and the connection to the present._
+_1.4.          Hook paragraph: Emotional Rewards/Experience_
+_1.4.1.        Introduction linking last year (when the game came out) to the present._
+Along the way, Amicia and Hugo encounter eerie parallels to our current daily experience: rumors of an encroaching illness spreading through the land, causing social unrest leading to and an atmosphere of distrust while the political pot begins to boil over. The fact that this game was released precisely one year before the thick of the Coronavirus concern is a stroke of fate that has extended the game's relevance and fame. However, the experience of playing the game and enjoying it communally with its fanbase was no less satisfying in 2019, when its emotionally rewarding sense of moral vindication carried it through to nominations and awards for narrative achievement and historical design.
+**¶**
+
+_1.4.2.        Sentences listing/enumerating emotional rewards._
+That emotional appeal comes from
 
 
-1.3.          Brief pararaph (possibly only once sentence) about Coronavirus and the connection to the present.
-1.4.          Hook paragraph: Emotional Rewards/Experience
-1.4.1.        Introduction linking last year (when the game came out) to the present.
-1.4.2.        Sentences listing/enumerating emotional rewards.
 1.4.2.1.      First, the purely mechanical or least erudite or most gamerish kinds of rewards (since more idealogical rewards have already been teased).
 1.4.2.2.      Final emotional reward in the list related to its historical interest.
 1.5.          Brief transition paragraph explaining why we are beginning with a discussion of setting/milieu and in-game story-world environment. (This will be only one sentence and may actually be immediately below the fold instead of above it.)
