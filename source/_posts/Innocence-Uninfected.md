@@ -11,7 +11,7 @@ tags: [fantasy, low-fantasy, historical, pc-game]
 _1.            Above-the-fold intro.
 1.1.          Attention step sentence_
 The year 2019 saw the outbreak of disease leading to widespread social unrest in Europe.
-
+**¶**
 
 _1.2.          First full paragraph about main thesis: Plague tale is good because it's a mature game written from the perspective of childhood innocense that honors family without being family friendly_
 _1.2.1.        First sentence mentioning title. (Mentioning Steam Award is unnecessary.)_
