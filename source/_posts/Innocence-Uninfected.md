@@ -17,6 +17,7 @@ _1.2.          First full paragraph about main thesis: Plague tale is good becau
 _1.2.1.        First sentence mentioning title. (Mentioning Steam Award is unnecessary.)_
 _1.2.1.1.      Secondary clause of this sentence indiciating what to introduce the game as._
 I'm referring to *A Plague Tale: Innocence*, last year's historical adventure game that won top honors for narrative achievement even as its praiseworthy young characters won the hearts of an adoring fanbase on Xbox One, Playstation 4, and personal computer.
+**¶**
 
 
 _1.2.2.        Thesis setence(s)._
