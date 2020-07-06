@@ -21,12 +21,13 @@ I'm referring to *A Plague Tale: Innocence*, last year's historical adventure ga
 
 _1.2.2.        Thesis setence(s)._
 Launched one year before Coronavirus reset many of our expectations, *A Plague Tale* has been inspirational beyond its modest goals and its linear story due to its expectation shattering aesthetic: its appealing use of the values associated with childhood without being in the least "family friendly."
+_1.2.3.        One or more sentences introducing and naming Amicia and Hugo._
+_1.2.4.        Last sentence of first paragraph teasing all the things that *A Plague Tale* is._
+Achieved by its linear narrative structure oriented around the perspectives of its lead characters, *A Plague Tale* puts the vindicated resourcefulness of youth in an intense quest not only for the survival of the young heroes, but also for the preservation of their parents' legacy, their family history, and the tested wisdom of old age. Amicia of House De Rune, a fifteen-year-old noblewoman and the primary player character, must protect her five-year-old brother Hugo from being kidnapped by the Inquisition for mysterious reasons while fighting off hordes of supernaturally aggressive man-eating rats. A largely historical game set in 1348, one year after the rat-borne black death arrived in its milieu of southwestern France, *A Plague Tale* uses engaging, traditionally fun gameplay alongside its artistic and gently personal narrative structure to bridge the gap between broken adulthood and unspoiled childhood.
+**¶**
 
 
 
-
-1.2.3.        One or more sentences introducing and naming Amicia and Hugo.
-1.2.4.        Last sentence of first paragraph teasing all the things that *A Plague Tale* is.
 1.3.          Brief pararaph (possibly only once sentence) about Coronavirus and the connection to the present.
 1.4.          Hook paragraph: Emotional Rewards/Experience
 1.4.1.        Introduction linking last year (when the game came out) to the present.
