@@ -34,11 +34,11 @@ Along the way, Amicia and Hugo encounter eerie parallels to our current daily ex
 **¶**
 
 _1.4.2.        Sentences listing/enumerating emotional rewards._
-That emotional appeal comes from
+_1.4.2.1.      First, the purely mechanical or least erudite or most gamerish kinds of rewards (since more idealogical rewards have already been teased)._
+_1.4.2.2.      Final emotional reward in the list related to its historical interest._
+Considered as a videogame, the game's engagement unfolds through its stealth action control design, its strategic and puzzle-solving adventure-genre characteristics, and the feeling of acceleration incited by the story's narrative guiding, which pushes the players along through the chapters without calling attention to the boundaries of the implemented world. Considering *A Plague Tale* as a videogame is crucial, as its tightly disciplined implementation of its feature set and its beautifully rendered world sustain its thematic vision of an interactive medieval Europe portrayed from within its own medieval worldview, complete with alchemy, pseudoscience, and all kinds of religious ideas and institutions in a landscape full of beauty and depth but also terror and decay.
+**¶**
 
-
-1.4.2.1.      First, the purely mechanical or least erudite or most gamerish kinds of rewards (since more idealogical rewards have already been teased).
-1.4.2.2.      Final emotional reward in the list related to its historical interest.
 1.5.          Brief transition paragraph explaining why we are beginning with a discussion of setting/milieu and in-game story-world environment. (This will be only one sentence and may actually be immediately below the fold instead of above it.)
 
 ---
