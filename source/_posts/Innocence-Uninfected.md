@@ -46,10 +46,15 @@ In order to understand how this game sustains its higher theme about the perseve
 
 ---
 
-2.            Milieu
-2.1.          Description of emotional awards relevant to the fact that the game is set in the Middle Ages.
-2.1.1.        Potentially a reference to other media, i.e. *The Lord of the Rings*.
-2.1.2.        Description of all the ways that *A Plague Tale* pleases players who love the Middle Ages.
+_2.            Milieu
+2.1.          Description of emotional awards relevant to the fact that the game is set in the Middle Ages._
+_2.1.1.        Potentially a reference to other media, i.e. *The Lord of the Rings*._
+Part of the fun involved in playing *A Plague Tale* comes from the genre conventions of its setting, knights and castles, armor and ruins. Leveraging those conventions into an authentic spirit involves expressing embodying a medieval ethos in some way. *A Plague Tale* accomplishes this by depicting its historical detail from its characters' own medieval worldview, showing the fear and the social disturbances of the 14th-century pandemic in a way that feels authentically medieval. For instance, rats are materially the source of the plague in *A Plague Tale*, a departure from scientific accuracy that likely mirrors the way that medieval people understood and experienced the plague. The existence of the plague as a disease is more-or-less irrelevant background detail in *A Plague Tale*, which feels like a bit of an oversight, though there are depictions both of the social unrest caused by widespread death due to disease and even of infected individuals themselves. The medieval experience comes through in the mystical and low fantasy elements derived from the characters' medieval philosophy surrounding the rats and the plague, constructing a world that feels true to the way that medieval people might have experienced the plague based on their own expectations.
+
+**[Screenshot goes here.]**
+
+_2.1.2.        Description of all the ways that *A Plague Tale* pleases players who love the Middle Ages._
+
 2.1.2.1.      Knights, castles etc. -- also, mention the Inquisition here.
 2.2.          Historicity of the setting in Southwestern France (Aquitaine)
 2.2.1.        Reddit quote from Sébastien Renard: "As we're French, living in a city with a rich and heavy past, we walk all day long in the shadow of medieval monuments, so it helps imagine the way villages and cities were built, what the countryside looked like, etc."
