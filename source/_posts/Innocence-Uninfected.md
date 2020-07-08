@@ -54,8 +54,12 @@ Part of the fun involved in playing *A Plague Tale* comes from the genre convent
 **[Screenshot goes here.]**
 
 _2.1.2.        Description of all the ways that *A Plague Tale* pleases players who love the Middle Ages._
+_2.1.2.1.      Knights, castles etc. -- also, mention the Inquisition here._
+In the province of Aquitaine in Southwestern France, heavily armed soldiers brutally impose a martial quarantine upon the common folk, beneath the banner of a nonstandard double-barred cross. Their order is known only as "the Inquisition," a fascist military society with a religious interest in the mysterious disease. With the Hundred Year's War raging between occupying armies, Amicia and Hugo find themselves fleeing through battleground hellscapes and wading through corpses in imagery evoking the dark brutality of traditional folktales in their raw and unmodernized form.
+**¶**
 
-2.1.2.1.      Knights, castles etc. -- also, mention the Inquisition here.
+The fantastic and the historical are united in this vivid setting through an abiding sense of authenticity. This authenticity is perhaps borne of Asobo Studio's holistic relationship with the subject matter of their game, as they are based out of
+
 2.2.          Historicity of the setting in Southwestern France (Aquitaine)
 2.2.1.        Reddit quote from Sébastien Renard: "As we're French, living in a city with a rich and heavy past, we walk all day long in the shadow of medieval monuments, so it helps imagine the way villages and cities were built, what the countryside looked like, etc."
 2.2.1.1.      Brief clause or phrase teasing introduction to Asobo Studio.
