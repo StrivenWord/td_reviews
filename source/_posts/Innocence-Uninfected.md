@@ -62,10 +62,14 @@ _2.2.          Historicity of the setting in Southwestern France (Aquitaine)_
 _2.2.1.        Reddit quote from Sébastien Renard: "As we're French, living in a city with a rich and heavy past, we walk all day long in the shadow of medieval monuments, so it helps imagine the way villages and cities were built, what the countryside looked like, etc."_
 _2.2.1.1.      Brief clause or phrase teasing introduction to Asobo Studio._
 The fantastic and the historical are united in this vivid setting through an abiding sense of authenticity. This authenticity is perhaps borne of the close relationship between the developers and the land, for the game development company Asobo Studio is based out of the city of Bordeaux in the very locale where their game is set. Narrative designer Sébastien Renard commented on Reddit regarding the creative inspiration for the setting, "As we're French, living in a city with a rich and heavy past, we walk all day long in the shadow of medieval monuments, so it helps imagine the way villages and cities were built, what the countryside looked like, etc."
+**¶**
 
-2.2.2.        Historical overview of the Black Death.
-2.2.2.1.      Asobo's modification of the concept of the Plague.
-2.2.3.        Mechanic of history objects in the Inventory.
+_2.2.2.        Historical overview of the Black Death._
+_2.2.2.1.      Asobo's modification of the concept of the Plague._
+_2.2.3.        Mechanic of history objects in the Inventory._
+Its historicity is one of *A Plague Tale*'s main attractions, being explicitly featured in one of the game's secondary mechanics. Several types of objects, unnecessary for completing the chapters, are found often in out-of-the-way places. When discovered, these items are added to the Inventory menu, where informational dialogs are displayed along with the 3d artwork for each object, explaining its historical significance. **[Types of stuff, specifically]**
+
+
 2.2.3.1.      The rosary object.
 2.2.3.2.      One of the alchemy related objects.
 2.2.4.        Medieval worldview.
