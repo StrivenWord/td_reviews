@@ -58,11 +58,11 @@ _2.1.2.1.      Knights, castles etc. -- also, mention the Inquisition here._
 In the province of Aquitaine in Southwestern France, heavily armed soldiers brutally impose a martial quarantine upon the common folk, beneath the banner of a nonstandard double-barred cross. Their order is known only as "the Inquisition," a fascist military society with a religious interest in the mysterious disease. With the Hundred Year's War raging between occupying armies, Amicia and Hugo find themselves fleeing through battleground hellscapes and wading through corpses in imagery evoking the dark brutality of traditional folktales in their raw and unmodernized form.
 **¶**
 
-The fantastic and the historical are united in this vivid setting through an abiding sense of authenticity. This authenticity is perhaps borne of Asobo Studio's holistic relationship with the subject matter of their game, as they are based out of
+_2.2.          Historicity of the setting in Southwestern France (Aquitaine)_
+_2.2.1.        Reddit quote from Sébastien Renard: "As we're French, living in a city with a rich and heavy past, we walk all day long in the shadow of medieval monuments, so it helps imagine the way villages and cities were built, what the countryside looked like, etc."_
+_2.2.1.1.      Brief clause or phrase teasing introduction to Asobo Studio._
+The fantastic and the historical are united in this vivid setting through an abiding sense of authenticity. This authenticity is perhaps borne of the close relationship between the developers and the land, for the game development company Asobo Studio is based out of the city of Bordeaux in the very locale where their game is set. Narrative designer Sébastien Renard commented on Reddit regarding the creative inspiration for the setting, "As we're French, living in a city with a rich and heavy past, we walk all day long in the shadow of medieval monuments, so it helps imagine the way villages and cities were built, what the countryside looked like, etc."
 
-2.2.          Historicity of the setting in Southwestern France (Aquitaine)
-2.2.1.        Reddit quote from Sébastien Renard: "As we're French, living in a city with a rich and heavy past, we walk all day long in the shadow of medieval monuments, so it helps imagine the way villages and cities were built, what the countryside looked like, etc."
-2.2.1.1.      Brief clause or phrase teasing introduction to Asobo Studio.
 2.2.2.        Historical overview of the Black Death.
 2.2.2.1.      Asobo's modification of the concept of the Plague.
 2.2.3.        Mechanic of history objects in the Inventory.
