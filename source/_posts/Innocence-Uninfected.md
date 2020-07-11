@@ -61,6 +61,8 @@ In the province of Aquitaine in Southwestern France, heavily armed soldiers brut
 _2.2.          Historicity of the setting in Southwestern France (Aquitaine)_
 _2.2.1.        Reddit quote from Sébastien Renard: "As we're French, living in a city with a rich and heavy past, we walk all day long in the shadow of medieval monuments, so it helps imagine the way villages and cities were built, what the countryside looked like, etc."_
 _2.2.1.1.      Brief clause or phrase teasing introduction to Asobo Studio._
+
+
 The fantastic and the historical are united in this vivid setting through an abiding sense of authenticity. This authenticity is perhaps borne of the close relationship between the developers and the land, for the game development company Asobo Studio is based out of the city of Bordeaux in the very locale where their game is set. Narrative designer Sébastien Renard commented on Reddit regarding the creative inspiration for the setting, "As we're French, living in a city with a rich and heavy past, we walk all day long in the shadow of medieval monuments, so it helps imagine the way villages and cities were built, what the countryside looked like, etc."
 **¶**
 
@@ -70,8 +72,13 @@ _2.2.3.        Mechanic of history objects in the Inventory._
 Its historicity is one of *A Plague Tale*'s main attractions, being explicitly featured in one of the game's secondary mechanics. Several types of objects, unnecessary for completing the chapters, are found often in out-of-the-way places. When discovered, these items are added to the Inventory menu, where informational dialogs are displayed along with the 3d artwork for each object, explaining its historical significance. **[Types of stuff, specifically]**
 
 
-2.2.3.1.      The rosary object.
-2.2.3.2.      One of the alchemy related objects.
+_2.2.3.1.      The rosary object._
+The easter-egg objects are not needed to advance through to the end of the game, and the act of checking the inventory to read the historical anecdotes is one of the very few activities that pull the player out of the game world in what is otherwise an exceedingly immersive game. That being said, the easter-egg objects and the historical objects work together to create a profound sense of place reverberating through both the internal context of the story world and the surrounding context within history. For example, in a meticulously and hauntingly rendered interior of a large, austere church a simple fourteenth-century rosary can be found. That church, and the sequence of interactions that can occur within it, marks one of the groundbreaking characterization sequences in the game, as Amicia staggers through the shock of having been forced to kill in self-defense while the siblings mourn for their parents. This demonstrates why *A Plague Tale* cannot be classified as simply an erudite version of a typical hardcore action-adventure game. A typical mainstream game might have deep historical and artistic merit, but such a game would be expected to use its intricate milieu for aesthetic framing.
+**¶**
+
+_2.2.3.2.      One of the alchemy related objects._
+**[Screenshot of alchemy related object]**
+
 2.2.4.        Medieval worldview.
 2.2.4.1.      Philosophy/astronomy etc.
 2.2.4.2.      Religion
