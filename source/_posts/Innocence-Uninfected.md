@@ -69,7 +69,8 @@ The fantastic and the historical are united in this vivid setting through an abi
 _2.2.2.        Historical overview of the Black Death._
 _2.2.2.1.      Asobo's modification of the concept of the Plague._
 _2.2.3.        Mechanic of history objects in the Inventory._
-Its historicity is one of *A Plague Tale*'s main attractions, being explicitly featured in one of the game's secondary mechanics. Several types of objects, unnecessary for completing the chapters, are found often in out-of-the-way places. When discovered, these items are added to the Inventory menu, where informational dialogs are displayed along with the 3d artwork for each object, explaining its historical significance. **[Types of stuff, specifically]**
+Its historicity is one of *A Plague Tale*'s main attractions, being explicitly featured in one of the game's secondary mechanics. Several types of objects, unnecessary for completing the chapters, are found often in out-of-the-way places. When discovered, these items are added to the Inventory menu, where informational dialogs are displayed along with the 3d artwork for each object, explaining its historical significance. These come in three different categories -- "Curiosities" for everyday objects that illustrate medieval life, "Gifts" for knick-knacks that the children find during the course of the game, and "Hugo's Herbarium" for flowers, which when discovered prompt Hugo to pick the flower from the ground and place it in his sister's hair.
+**[Screenshot of Hugo putting the flower into Amicia's hair]**
 
 
 _2.2.3.1.      The rosary object._
@@ -79,7 +80,8 @@ The easter-egg objects are not needed to advance through to the end of the game,
 _2.2.3.2.      One of the alchemy related objects._
 **[Screenshot of alchemy related object]**
 
-2.2.4.        Medieval worldview.
+_2.2.4.        Medieval worldview._
+
 2.2.4.1.      Philosophy/astronomy etc.
 2.2.4.2.      Religion
 2.2.4.2.1.    Churches
