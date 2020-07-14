@@ -81,22 +81,36 @@ _2.2.3.2.      One of the alchemy related objects._
 **[Screenshot of alchemy related object]**
 
 _2.2.4.        Medieval worldview._
+_2.2.4.1.      Philosophy/astronomy etc._
+The medieval worldview expressed by these objects includes the medieval understanding of potentially airborne disease, medieval cosmology, and the structure of religion in society, which the description for the rosary object describes as **[...]**
 
-2.2.4.1.      Philosophy/astronomy etc.
-2.2.4.2.      Religion
-2.2.4.2.1.    Churches
-2.2.4.2.2.    Good catholicism: Childlike faith
-2.2.4.2.3.    Bad catholicism: The Inquisition
-2.2.4.2.3.1.  Mention how the Inquisition is explicitly being called out as being "heresy and occultism" and not sanctioned by the Pope
-2.2.4.3.      Alechemy
-2.3.          Low fantasy elements
+_2.2.4.2.      Religion_
+_2.2.4.2.1.    Churches_
+The central presence of religion in the society depicted in *A Plague Tale* is frequently and subtly referenced. Multiple church structures are featured prominently at various points in the game, often at critical plot junctures. The church interiors, with basic stone statuary and side altars as well as simply painted interior domes, reflect a time when Christianity was more unified and objective. The churches could be Orthodox and in their stone austerity almost look Reformed, despite being solidly Western and Catholic in their historical context.
+
+_2.2.4.2.2.    Good catholicism: Childlike faith_
+_2.2.4.2.3.    Bad catholicism: The Inquisition_
+Religion in the story appears starkly contrasted between the imperial, self-righteous zeal of the Inquisition and the innocent faith of Hugo and Amicia's prayers. One of the incredible aspects of the story is its deeply revertial nature, exhibited again in the way it respects organized religion. The common archetype of evil religion is absolutely and centrally present in the Inquisition and the main plot of the story, but as much as religion is depicted as a force of evil, the artifacts of religion in society are continually portrayed as a positive, a psychological defense for the poor children against their trauma. Churches throughout the game are portrayed as places of safety, refuges for the children's threatened innocence.
+**¶**
+
+_2.2.4.2.3.1.  Mention how the Inquisition is explicitly being called out as being "heresy and occultism" and not sanctioned by the Pope_
+What's more, the story explicitly draws a distinction between authentic catholic Christianity and the religion of the Inquisition. At one point, a cutscene shows a bishop from the Church reporting on the Church's investigation of this Inquisition. The bishop says that the Inquisition was operated without the approval of the Pope and stated that he found only "heresy and occultism." No further argument or example needs to be given than this to convince theology nerds and Church history buffs that they should love *A Plague Tale*.
+
+_2.2.4.3.      Alechemy_
+_2.3.          Low fantasy elements_
+Though highlighting religion as part of the background of the medieval world and as a force of both good and evil in the lives of the characters and institutions that inhabit it, it would be inaccurate to label *A Plague Tale* as a religious game, in the same way, for example, that the 2008 indie title *That Dragon Cancer* about a Christian family's struggle is. Instead, *A Plague Tale* reverberates with a sense of profound but subtle spirituality entwined with the religious realism of the historical worldview. This extroverts what archetypal medieval fantasy, especially in the epic scale of *The Lord of the Rings*, internalizes. Where the traditional high fantasy constructs mythologies to objectify the values and lifestyles from traditional culture -- and often in particular from medieval Europe -- *A Plague Tale* clothes the culturally authentic life infused by the sacred and the fantastic in small personal story using the grand framework of real-world history for its legendarium.
+**¶**
+
+That is the reason that *A Plague Tale* is also a fantasy. Asobo seems to shy away from the genre label, preferring to promote it as historical drama. They are certainly justified in doing so, as nothing in the world as presented would be far outside the expectations of reality from the characters' medieval worldview. However, the story's grand-scale mysticism incarnated within a real and historical setting achieves the conditions of low fantasy. Alchemy unites the legend with the gameplay itself and with the greater plot. The almechical and gnostic paraphernalia found littering out-of-the-way parts of the game maps, the references to generational mystique united to real-world history, these offer up the leftover remains of the great spiritual forces of epic myth after they have passed into our historical experience.
+**¶**
+
+
 
 ---
 
 3.            Narratology
 3.1.          Plot teaser hinging on alchemy narrative/background
-3.1.1.        Description of plot as something beyond the pla
-yer's experience (not directly related to what the player has to do)
+3.1.1.        Description of plot as something beyond the player's experience (not directly related to what the player has to do)
 3.1.2.        Description of plot from the player's perspective
 3.2.          Introduction of the significance of the narrative side of the game in context of other media
 3.3.          ...significance of the narrative side of the game to the game itself
