@@ -108,11 +108,20 @@ That is the reason that *A Plague Tale* is also a fantasy. Asobo seems to shy aw
 
 ---
 
-3.            Narratology
-3.1.          Plot teaser hinging on alchemy narrative/background
-3.1.1.        Description of plot as something beyond the player's experience (not directly related to what the player has to do)
-3.1.2.        Description of plot from the player's perspective
-3.2.          Introduction of the significance of the narrative side of the game in context of other media
+_3.            Narratology_
+_3.1.          Plot teaser hinging on alchemy narrative/background_
+Alchemy informs not only the genre associations but frames the story, as Lord and Lady De Rune, parents to Amicia and Hugo, are, in fact, alchemists. The De Rune family is inevitably bound up with the powers behind the Black Death. Their immediate journey, as they react to the consequences of their family's place in the backstory mythos, is more personal plot that might have been a historical thriller had it been in a novel instead of a videogame.
+**¶**
+
+_3.1.1.        Description of plot as something beyond the player's experience (not directly related to what the player has to do)_
+_3.2.          Introduction of the significance of the narrative side of the game in context of other media_
+In the end, the personal story is terminated abruptly without much of the structure and characterization that would have to be present in a novel, while the mythic backstory is little more than teased. Even though the game won multiple awards for narrative, its brilliance in narrative design isn't strictly in the intricacies of the actual narrative, but in the design of the narrative experience of interacting with the story and the world in the course of a linear play-through.
+**¶**
+
+_3.1.2.        Description of plot from the player's perspective_
+The linearity of this narrative design achieves a depth independent of length or of the amount of plot material by 
+
+
 3.3.          ...significance of the narrative side of the game to the game itself
 3.4.          The game as interactive narrative
 3.4.1.        Lack of diverging plot paths
