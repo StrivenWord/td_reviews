@@ -128,12 +128,13 @@ The linearity of this narrative design achieves a depth independent of length or
 **¶**
 
 _3.4.1.        Lack of diverging plot paths_
-These sequences form a type of interactive narrative based on facilitating the experience through interaction rather than on choosing between multiple alternative possibilities.
+_3.4.2.        Lack of agency in dialog decisions_
+These sequences form a type of interactive narrative based on facilitating the experience through interaction rather than on choosing between multiple alternative possibilities. Some players likely find the lack of agency in the characterization to be shallow. There are no dialog choices or equipment customizations to make players feel responsible for building the characters themselves. As a result, the characters never feel very much like avatars for the player. In fact, there is often not even one unambiguous player character; through most of the game, the third-person over-the-shoulder viewpoint follows Amicia and Hugo together, and at various times the party includes other characters who can perform tasks at the player's initiation. Instead of being blank canvases for players to fill with their own self-actualization, these characters are part of the brush by which the game and the player cooperate to paint within the lines.
+**¶**
 
 
 
 
-3.4.2.        Lack of agency in dialog decisions
 3.4.3.        Narrative being triggered around gameplay
 3.4.4.        Linearity of narrative design being reinforced by gameplay
 3.4.4.1.      Narrative acceleration effect *(i.e., Paul Gee)*
