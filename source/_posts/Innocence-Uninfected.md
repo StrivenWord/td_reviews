@@ -119,12 +119,20 @@ In the end, the personal story is terminated abruptly without much of the struct
 **¶**
 
 _3.1.2.        Description of plot from the player's perspective_
-The linearity of this narrative design achieves a depth independent of length or of the amount of plot material by 
+_3.3.          ...significance of the narrative side of the game to the game itself_
+The historical context serves as a referee in the game's story construction, mediating between the immediate drama enacted in the characters' interactions and the mythological setting articulated in a few key sequences and reinforced by the medieval worldbuilding. Naturally, the immediate drama is closer to the player, since the character beats between Amicia, Hugo, and the other characters happen around the player's interactions. The significance of the deeper plot to the gameplay is that it builds the aesthetic incentive for continuing to interact with the narrative, much as the vibrant gameworld compels exploration. The narrative incentive is particularly important in *A Plague Tale* due to its linear focus.
+**¶**
+
+_3.4.          The game as interactive narrative_
+The linearity of this narrative design achieves a depth independent of length or of the amount of plot material by triggering the narrative exposition immediately within live gameplay, using only brief cutscenes on occasion. Characters deliver dialog spontaneously during gameplay, with scripted events requiring the player to interact with the environment while during sequences of character and plot development. The historical and religious themes in the setting also serve to unite the two levels of narrative. The affect of this two-tiered narrative is to amplify the emphasis on the young characters' personal innocence.
+**¶**
+
+_3.4.1.        Lack of diverging plot paths_
+These sequences form a type of interactive narrative based on facilitating the experience through interaction rather than on choosing between multiple alternative possibilities.
 
 
-3.3.          ...significance of the narrative side of the game to the game itself
-3.4.          The game as interactive narrative
-3.4.1.        Lack of diverging plot paths
+
+
 3.4.2.        Lack of agency in dialog decisions
 3.4.3.        Narrative being triggered around gameplay
 3.4.4.        Linearity of narrative design being reinforced by gameplay
