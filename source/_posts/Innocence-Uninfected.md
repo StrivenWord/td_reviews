@@ -141,7 +141,6 @@ Those lines exist are often invisible, existing to ensure that the emerging pain
 _3.4.4.        Situational agency (small decisions)_
 _3.4.4.1.      To save someone or not._
 _3.4.4.2.      Exploring extras: i.e., Hugo's flowers -- do be sure to mention the flowers._
-The strength of the game's mechanics lies in the real time controls never get swapped out for alternative methods while keeping the pacing tightly measured through its selective application of different kinds of gameplay genres.
 
 
 
@@ -149,7 +148,12 @@ The strength of the game's mechanics lies in the real time controls never get sw
 
 ---
 
-4.            Gameplay
+_4.            gameplay_
+
+The strength of the game's mechanics lies in the
+
+real time controls never get swapped out for alternative methods while keeping the pacing tightly measured through its selective application of different kinds of gameplay genres.
+
 4.1.          Gameplay coordinated around linear narrative
 4.2.          Immersion as most important focus of gameplay mechanics.
 4.2.1.        Immersive Mode and UI
