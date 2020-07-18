@@ -149,6 +149,9 @@ While *A Plague Tale* does not offer any the ability to choose between different
 ---
 
 _4.            gameplay_
+There are, however, also more explicit ways that *A Plague Tale* provides agency and additional interactivity. These are the secondary gameplay features that complement the core real-time action-adventure mechanics. These include the system of easter-eggs; that is, items that the children can find that are subsequently added to the inventory and even appear at points in the narrative, even though they serve no practical problem-solving purpose. **[previously mentioned]** In additional to the historical interest provided by the descriptions presented from the inventory menu, these items reward exploration of the far corners of the meticulously designed maps, which are so well balanced that they hold up to the scrutiny of exploration while still guiding the players away from their boundaries and onward toward the narrative.
+
+The other additional interactive feature is a crafting system. Amicia's sling, ammunition bag, and
 
 The strength of the game's mechanics lies in the
 
