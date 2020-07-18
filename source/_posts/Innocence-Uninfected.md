@@ -142,8 +142,8 @@ _3.4.4.        Situational agency (small decisions)_
 _3.4.4.1.      To save someone or not._
 _3.4.4.2.      Exploring extras: i.e., Hugo's flowers -- do be sure to mention the flowers._
 
-
-
+While *A Plague Tale* does not offer any the ability to choose between different directions for the story or to choose how to develop the characters, it instead offers situational freedom. This is most immediately evident in the small narrative decisions that players have the ability to enact without any disruption to the flow of gameplay. The most noteworthy of these are the powerful moments when the player has the ability to save or not to save people from being killed by the rats. Choosing to save the non-player characters' lives requires more thought and skill than simply passing by or finding a safer solution and rewards the player with the immediate narrative recognition of the accomplishment in the brief but profound moments of scripted dialog. There are many more subtle micro-decisions of the kind. The game excels at accomodating multiple strategies and for rewarding ingenuity and small-scale exploration, and the most significant of those rewards are the secret, spontaneous beats -- scripted dialog and reactions, as well as alternative solutions and out-of-the way areas.
+**¶**
 
 
 ---
