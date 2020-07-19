@@ -161,12 +161,19 @@ The other additional interactive feature is a crafting system. Amicia's sling, a
 The special munitions are an extension of the core gameplay mechanic that are progressively introduced, often at story significant moments, throughout the entire middle portion of the gameplay experience. This relationship between the narrative and the gameplay mechanics ensures that the attention and focus required to keep learning how to play the game well matches the interest in the advancing story. Two types of munitions introduced in the midgame allow Amicia to survive when attacked by an enemy soldier in close quarters or when about to be swarmed by the rats, but the game explicitly warns that crafting these powerful munitions expends enough resources to threaten future improvements.
 **¶**
 
-The strength of the game's mechanics lies in the sensible set of implemented features. The primary gameplay genre is definitively [stealth](https://en.wikipedia.org/wiki/Stealth_game), firmly in the tradition of live action games where success is dependent on one's ability to sneak past enemies or otherwise avoid direct conflict. In *A Plague Tale*, standing and fighting is not an option, but players are still constantly afforded the choice of how exactly to get by the numerous oponents, with options often including highter violence solutions involving Amicia's ranged attack with her sling and lower-violence solutions based on distracting the many enemies. Added to this, and associated with the strategic side of the stealth problem solving, is a secondary gamplay genre of the traditional adventure game, involving searching the environment for creative solutions to solve problems and move onward. The additional features building on this core action-adventure experience -- the equipment improvements, the different kinds of munitions, and the easter-egg objects -- are closely related to the narrative experience and avoid giving the impression of "feature creep" so evident in many larger games, where lots of side quests and additional activities may be implemented badly or with little consideration of the core experience.
+The strength of the game's mechanics lies in the sensible set of implemented features. The primary gameplay genre is definitively [stealth](https://en.wikipedia.org/wiki/Stealth_game), firmly in the tradition of live action games where success is dependent on one's ability to sneak past enemies or otherwise avoid direct conflict. In *A Plague Tale*, standing and fighting is not an option, but players are still constantly afforded the choice of how exactly to get by the numerous oponents, with options often including higher violence solutions involving Amicia's ranged attack with her sling and lower-violence solutions based on distracting the many enemies. Added to this, and associated with the strategic side of the stealth problem solving, is a secondary gamplay genre of the traditional adventure game, involving searching the environment for creative solutions to solve problems and move onward. The additional features building on this core action-adventure experience -- the equipment improvements, the different kinds of munitions, and the easter-egg objects -- are closely related to the narrative experience and avoid giving the impression of "feature creep" so evident in many larger games, where lots of side quests and additional activities may be implemented badly or with little consideration of the core experience.
 **¶**
+
+_4.2.1.        Immersive Mode and UI_
+Beyond its medieval aesthetic and its action-adventure gameplay mechanics, *A Plague Tale* delivers an experience based on the concept of immersion.
+
+Immersion is the number one result of the mechanics and the interactive narrative.
+
+
+
 
 real time controls never get swapped out for alternative methods while keeping the pacing tightly measured through its selective application of different kinds of gameplay genres.
 
-4.2.1.        Immersive Mode and UI
 4.2.1.1       Photo Mode
 4.2.2.        Languages
 4.2.2.1.      Excellence of English voice track
