@@ -149,18 +149,23 @@ While *A Plague Tale* does not offer any the ability to choose between different
 ---
 
 _4.            gameplay_
+_4.1.          Gameplay coordinated around linear narrative_
+_4.2.          Immersion as most important focus of gameplay mechanics._
+
 There are, however, also more explicit ways that *A Plague Tale* provides agency and additional interactivity. These are the secondary gameplay features that complement the core real-time action-adventure mechanics. These include the system of easter-eggs; that is, items that the children can find that are subsequently added to the inventory and even appear at points in the narrative, even though they serve no practical problem-solving purpose. **[previously mentioned]** In additional to the historical interest provided by the descriptions presented from the inventory menu, these items reward exploration of the far corners of the meticulously designed maps, which are so well balanced that they hold up to the scrutiny of exploration while still guiding the players away from their boundaries and onward toward the narrative.
+**¶**
 
 The other additional interactive feature is a crafting system. Amicia's sling, ammunition bag, and belt can be improved by expending materials found throughout the maps. These improvements have real gameplay benefits such that the increasingly action-heavy sequences later in the game are tangibly more difficult without having developed the improvements. Crafting can generally occur only at the sporadic workbench fixtures, which are not even present in every chapter. Therefore, prioritizing improvements is a markable strategic element of gameplay, especially since improvements compete for the limited resource materials with the special types of munitions as the gameplay advances.
+**¶**
 
 The special munitions are an extension of the core gameplay mechanic that are progressively introduced, often at story significant moments, throughout the entire middle portion of the gameplay experience. This relationship between the narrative and the gameplay mechanics ensures that the attention and focus required to keep learning how to play the game well matches the interest in the advancing story. Two types of munitions introduced in the midgame allow Amicia to survive when attacked by an enemy soldier in close quarters or when about to be swarmed by the rats, but the game explicitly warns that crafting these powerful munitions expends enough resources to threaten future improvements.
+**¶**
 
-The strength of the game's mechanics lies in the
+The strength of the game's mechanics lies in the sensible set of implemented features. The primary gameplay genre is definitively [stealth](https://en.wikipedia.org/wiki/Stealth_game), firmly in the tradition of live action games where success is dependent on one's ability to sneak past enemies or otherwise avoid direct conflict. In *A Plague Tale*, standing and fighting is not an option, but players are still constantly afforded the choice of how exactly to get by the numerous oponents, with options often including highter violence solutions involving Amicia's ranged attack with her sling and lower-violence solutions based on distracting the many enemies. Added to this, and associated with the strategic side of the stealth problem solving, is a secondary gamplay genre of the traditional adventure game, involving searching the environment for creative solutions to solve problems and move onward. The additional features building on this core action-adventure experience -- the equipment improvements, the different kinds of munitions, and the easter-egg objects -- are closely related to the narrative experience and avoid giving the impression of "feature creep" so evident in many larger games, where lots of side quests and additional activities may be implemented badly or with little consideration of the core experience.
+**¶**
 
 real time controls never get swapped out for alternative methods while keeping the pacing tightly measured through its selective application of different kinds of gameplay genres.
 
-4.1.          Gameplay coordinated around linear narrative
-4.2.          Immersion as most important focus of gameplay mechanics.
 4.2.1.        Immersive Mode and UI
 4.2.1.1       Photo Mode
 4.2.2.        Languages
