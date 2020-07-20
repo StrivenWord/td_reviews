@@ -165,7 +165,8 @@ The strength of the game's mechanics lies in the sensible set of implemented fea
 **¶**
 
 _4.2.1.        Immersive Mode and UI_
-Beyond its medieval aesthetic and its action-adventure gameplay mechanics, *A Plague Tale* delivers an experience based on the concept of immersion.
+Beyond its medieval aesthetic and its action-adventure gameplay mechanics, *A Plague Tale* delivers an experience based on the concept of immersion. That is, distractions from experiencing the game world from its own internal perspective are kept to a minimum. The combined effect of the mechanics and the interactive narrative is to make a realistic simulation that is fully convincing in its own context. It caters to players seeking immersion by offering the option to disable the HUD display from the map, leaving basically nothing other than the gameworld on display throughout most of the game experience, except for when firing the sling. This *immersive* setting for the *HUD Preset* option is also a difficulty setting, as the game menu advises players that playing in Immersive Mode requires more careful attention. Practically, however, Immersive Mode doesn't make the gameplay very much harder, and players are strongly advised to use it as it adds much more depth.
+**¶**
 
 Immersion is the number one result of the mechanics and the interactive narrative.
 
