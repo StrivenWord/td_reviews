@@ -168,17 +168,18 @@ _4.2.1.        Immersive Mode and UI_
 Beyond its medieval aesthetic and its action-adventure gameplay mechanics, *A Plague Tale* delivers an experience based on the concept of immersion. That is, distractions from experiencing the game world from its own internal perspective are kept to a minimum. The combined effect of the mechanics and the interactive narrative is to make a realistic simulation that is fully convincing in its own context. It caters to players seeking immersion by offering the option to disable the HUD display from the map, leaving basically nothing other than the gameworld on display throughout most of the game experience, except for when firing the sling. This *immersive* setting for the *HUD Preset* option is also a difficulty setting, as the game menu advises players that playing in Immersive Mode requires more careful attention. Practically, however, Immersive Mode doesn't make the gameplay very much harder, and players are strongly advised to use it as it adds much more depth.
 **¶**
 
-Immersion is the number one result of the mechanics and the interactive narrative.
 
 
+_4.2.1.1       Photo Mode_
+The immersively visualized world can be captured in all its glory with another secondary feature outside of ordinary gameplay. Accessible while playing, the Photo Mode allows players to move the camera freely in the immediate vicinity of the player characters as well as to adjust photographic effects including focal distance, brightness, contrast, sharpness, and depth of field. This allows players to make screenshots with their creative interpretation of their gameplay experience. Photo Mode is responsible for much of the community engagement among the game's fans, who share their best in-game photos on Reddit and other platforms, fostering discussion and the creative incentive to keep coming back to the game.
+
+_4.2.2.        Languages_
+_4.2.2.1.      Excellence of English voice track_
+_4.2.2.1.1.    Charlotte McBurney winning best performance in a Drama_
 
 
 real time controls never get swapped out for alternative methods while keeping the pacing tightly measured through its selective application of different kinds of gameplay genres.
 
-4.2.1.1       Photo Mode
-4.2.2.        Languages
-4.2.2.1.      Excellence of English voice track
-4.2.2.1.1.    Charlotte McBurney winning best performance in a Drama
 4.3.          The game's discipline in avoiding feature creep.
 4.4.          Mechanical genres
 4.4.1.        Stealh
