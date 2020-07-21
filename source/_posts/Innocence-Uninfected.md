@@ -184,12 +184,16 @@ The immersive visual experience is complemented by the audible soundscape crafte
 That being said, the English voice acting is too superbly executed to be dismissed. Charlottle McBurney, voice of Amicia in the English track, won the 2019 NVGTR award for best performance in a Drama for her charming performance of Amicia. The vaguely proto-Latino accent that McBurney used for Amicia has served to characterize her just as fundamentally as the character art.
 **¶**
 
-real time controls never get swapped out for alternative methods while keeping the pacing tightly measured through its selective application of different kinds of gameplay genres.
+_4.3.          The game's discipline in avoiding feature creep._
+_4.4.          Mechanical genres_
+_4.4.1.        Stealh_
+_4.4.2.        Puzzle adventure game_
 
-4.3.          The game's discipline in avoiding feature creep.
-4.4.          Mechanical genres
-4.4.1.        Stealh
-4.4.2.        Puzzle adventure game
+*A Plague Tale*'s focus on immersion does not preclude its challenging gamer appeal. This is not a particularly casual game. In fact, it fully implements traditional hardcore gaming elements, even those simplistic as old-school arcade boss-fights. *A Plague Tale* has three such boss fights. The first two of these are at critical story junctures where new mechanics are introduced. The final is at the end of the game, where precise timing and careful resource management are critical. Despite the narrative nature of the experience, gaming mechanics in their simplest forms are still a core part of what *A Plague Tale* embodies and delivers.
+**¶**
+
+And the game is hard.
+
 4.4.2.1.      NVGTR award for Original adventure
 4.4.2.2.      Comparison: Portal
 4.4.2.3.      Comparison: Point-and-click adventure games *(Seek for reasonably well known comparisons)*
