@@ -172,10 +172,14 @@ Beyond its medieval aesthetic and its action-adventure gameplay mechanics, *A Pl
 
 _4.2.1.1       Photo Mode_
 The immersively visualized world can be captured in all its glory with another secondary feature outside of ordinary gameplay. Accessible while playing, the Photo Mode allows players to move the camera freely in the immediate vicinity of the player characters as well as to adjust photographic effects including focal distance, brightness, contrast, sharpness, and depth of field. This allows players to make screenshots with their creative interpretation of their gameplay experience. Photo Mode is responsible for much of the community engagement among the game's fans, who share their best in-game photos on Reddit and other platforms, fostering discussion and the creative incentive to keep coming back to the game.
+**¶**
 
 _4.2.2.        Languages_
 _4.2.2.1.      Excellence of English voice track_
 _4.2.2.1.1.    Charlotte McBurney winning best performance in a Drama_
+
+The immersive visual experience is complemented by the audible soundscape crafted by the skillful, lute-like melodies by **[composer name]**, along with the voice acting. The voice acting is a primary feature of the  There are three separate voice tracks selectable from the menu, in three different languages -- English, French, and German. Given the historical context, playing in either English or German feels like an odd betrayal. Fortunately, the voice track language can be adjusted independently of the the written language in the game interface, allowing one to experience the definitive immersive rendition of *A Plague Tale* by selecting the French voice track while using immersive HUD setting. Hearing the French language in the medieval environment is a particularly captivating experience, and the game design is skillful enough to guide the player on toward completing the game even without direct use of the dialog.
+**¶**
 
 
 real time controls never get swapped out for alternative methods while keeping the pacing tightly measured through its selective application of different kinds of gameplay genres.
