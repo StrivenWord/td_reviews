@@ -181,6 +181,8 @@ _4.2.2.1.1.    Charlotte McBurney winning best performance in a Drama_
 The immersive visual experience is complemented by the audible soundscape crafted by the skillful, lute-like melodies by **[composer name]**, along with the voice acting. The voice acting is a primary feature of the  There are three separate voice tracks selectable from the menu, in three different languages -- English, French, and German. Given the historical context, playing in either English or German feels like an odd betrayal. Fortunately, the voice track language can be adjusted independently of the the written language in the game interface, allowing one to experience the definitive immersive rendition of *A Plague Tale* by selecting the French voice track while using immersive HUD setting. Hearing the French language in the medieval environment is a particularly captivating experience, and the game design is skillful enough to guide the player on toward completing the game even without direct use of the dialog.
 **¶**
 
+That being said, the English voice acting is too superbly executed to be dismissed. Charlottle McBurney, voice of Amicia in the English track, won the 2019 NVGTR award for best performance in a Drama for her charming performance of Amicia. The vaguely proto-Latino accent that McBurney used for Amicia has served to characterize her just as fundamentally as the character art.
+**¶**
 
 real time controls never get swapped out for alternative methods while keeping the pacing tightly measured through its selective application of different kinds of gameplay genres.
 
