@@ -210,8 +210,12 @@ And the game can be hard. Whereas most of the other qualities of the game give i
 _5.            Surrounding Context_
 So it is that with a staff of only about [45 people](https://www.reddit.com/r/Games/comments/bo2ygy/ama_we_are_asobo_studio_developers_of_a_plague/enbrpab?utm_source=share&utm_medium=web2x), Asobo Studio crafted a reverent and beautiful videogame, intricate in its simplicity, that delivers a joyful experience of perseverance through psychological horror inflicted by corrupt powers.
 
-5.1.          Ratings, appeal, etc.
-5.2.          Platform, distribution, etc.
+_5.1.          Ratings, appeal, etc._
+Surrounded by a game market designed to capture short attention spans with superfluous use of violence and irrelevant bells and whistles, *A Plague Tale*'s strictly disciplined implementation of its feature set and its respectful, austere storytelling must have been a creative risk. With Asobo's recent [announcement](https://twitter.com/APlagueTale/status/1278276197441560576) of having exceeded a million copies sold, the risk has evidently paid off. Now *A Plague Tale*'s values are open to our discussion and acclaim.
+**¶**
+
+_5.2.          Platform, distribution, etc._
+
 5.3.          Awards and nominations
 5.3.1.        Steam award: Outstanding Story-Rich Game
 5.3.1.1.      Community voted
