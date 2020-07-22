@@ -207,7 +207,9 @@ And the game can be hard. Whereas most of the other qualities of the game give i
 
 ---
 
-5.            Surrounding Context
+_5.            Surrounding Context_
+So it is that with a staff of only about [45 people](https://www.reddit.com/r/Games/comments/bo2ygy/ama_we_are_asobo_studio_developers_of_a_plague/enbrpab?utm_source=share&utm_medium=web2x), Asobo Studio crafted a reverent and beautiful videogame, intricate in its simplicity, that delivers a joyful experience of perseverance through psychological horror inflicted by corrupt powers.
+
 5.1.          Ratings, appeal, etc.
 5.2.          Platform, distribution, etc.
 5.3.          Awards and nominations
