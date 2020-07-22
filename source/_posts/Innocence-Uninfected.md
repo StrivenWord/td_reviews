@@ -192,17 +192,18 @@ _4.4.2.        Puzzle adventure game_
 *A Plague Tale*'s focus on immersion does not preclude its challenging gamer appeal. This is not a particularly casual game. In fact, it fully implements traditional hardcore gaming elements, even those simplistic as old-school arcade boss-fights. *A Plague Tale* has three such boss fights. The first two of these are at critical story junctures where new mechanics are introduced. The final is at the end of the game, where precise timing and careful resource management are critical. Despite the narrative nature of the experience, gaming mechanics in their simplest forms are still a core part of what *A Plague Tale* embodies and delivers.
 **¶**
 
-And the game is hard.
+_4.4.2.1.      NVGTR award for Original adventure_
+_4.4.2.2.      Comparison: Portal_
+_4.4.2.3.      Comparison: Point-and-click adventure games *(Seek for reasonably well known comparisons)*_
+_4.4.3.        Action_
+_4.4.3.1.      Bossfights_
+_4.4.3.2.      Traditional console vibe, whereas most of the other qualities of the game _give it an indie PC game vibe_
+_4.4.3.2.      Resources management for upgrades_
+_4.4.3.3.      Emergent new gameplay mechanics_
+_4.5.          Gameplay summary: Not at all casual_
+And the game can be hard. Whereas most of the other qualities of the game give it an indie PC feeling, the boss fights along with the resource management create an old-school console vibe. While it evokes comparisons on the one hand with artistic narrative-driven indie titles, it also feels like a console action-adventure game such as, for instance, the 2013 *Tomb Raider*, with which it shares several conceptual characteristics -- adventure-style narrative and spatial puzzles, live action mechanics, equipment upgrades, and female action heroine protagonists. Though Laura Croft may have more toys at her disposal, Amicia De Rune and *A Plague Tale* posses a level of self-sufficient confidence that the hipsters can only play at.
+**¶**
 
-4.4.2.1.      NVGTR award for Original adventure
-4.4.2.2.      Comparison: Portal
-4.4.2.3.      Comparison: Point-and-click adventure games *(Seek for reasonably well known comparisons)*
-4.4.3.        Action
-4.4.3.1.      Bossfights
-4.4.3.2.      Traditional console vibe, whereas most of the other qualities of the game give it an indie PC game vibe
-4.4.3.2.      Resources management for upgrades
-4.4.3.3.      Emergent new gameplay mechanics
-4.5.          Gameplay summary: Not at all casual
 
 ---
 
