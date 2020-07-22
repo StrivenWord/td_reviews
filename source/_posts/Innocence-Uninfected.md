@@ -215,10 +215,14 @@ Surrounded by a game market designed to capture short attention spans with super
 **¶**
 
 _5.2.          Platform, distribution, etc._
+_5.3.          Awards and nominations_
+The gamer community on the Steam platform elected *A Plague Tale* as the year's Outstanding Story-Rich Game (it was also nominated for **[number]** additional categories), while the community of videogame journalists awarded it **[number]** awards and nominated it for **[number]** in the NVGTR awards.
+**¶**
 
-5.3.          Awards and nominations
-5.3.1.        Steam award: Outstanding Story-Rich Game
-5.3.1.1.      Community voted
+_5.3.1.        Steam award: Outstanding Story-Rich Game_
+_5.3.1.1.      Community voted_
+
+
 5.3.2.        NVGTR awards *(national academy of video game trade reviews)*
 5.3.2.1.      Journalist voted
 5.3.2.1.      Original adventure *(the most significant one)*
