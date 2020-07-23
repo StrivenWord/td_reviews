@@ -221,10 +221,10 @@ The gamer community on the Steam platform elected *A Plague Tale* as the year's 
 
 _5.3.1.        Steam award: Outstanding Story-Rich Game_
 _5.3.1.1.      Community voted_
+_5.3.2.        NVGTR awards *(national academy of video game trade reviews)*_
+_5.3.2.1.      Journalist voted_
+The fact that *A Plague Tale* performed so well in the NVGTR Awards reflects the fact that the greater videogame industry is still a field where the sincerity of joy reflected in good narrative and gameplay design can be honored. Issued and named for the National Academy of Video Game Trade Reviews,
 
-
-5.3.2.        NVGTR awards *(national academy of video game trade reviews)*
-5.3.2.1.      Journalist voted
 5.3.2.1.      Original adventure *(the most significant one)*
 5.3.2.2.      Art Direction, Period Influence *(may or may not mention)*
 5.3.2.3.      Writing in a Drama *(may or may not mention)*
