@@ -232,7 +232,10 @@ _5.3.2.4.      Performance in a Drama, Lead: Charlotte McBurney as Amicia *(may 
 _5.4.2.        One million copies sold_
 With Charlotte McBurney's award for her voice performance as a lead character in a drama, with corresponding nominations for supporting characters going to the English voice actors for the charactrs of Lucas and Mélie (Edan Hayhurst and Tabitha Rubens) -- together with further nominations relating to animation and art direction -- reveals the broad, balanced appeal that sustains *A Plague Tale*'s international community.
 
-5.5.          International communities: French, German, Russian, Spanish.
+_5.5.          International communities: French, German, Russian, Spanish._
+The French people have adored their own, with many French writers participating on their own language in English-first forums and writing about the game in their languge. It also won six awards in the French competition for gaming awards, the Pégases. Asobo catered to the substantial German gamer community with their German voice acting. Something in the game speaks to a craving for an authentic culture beyond the limits of the specific culture portrayed in the story; perhaps that is why other international communities have celebrated the game without even having voice translations in their languages. Russian content about *A Plague Tale* is plentiful on YouTube, and a prominent website from Spain features the game alongside native Spanish content **[find the website]**. (Besides the three featured languages for the voice acting, there are multiple language packs for captions and for the user interface, inlcuding Russian, Spanish, and Hebrew.)
+**¶**
+
 5.6.          The fandom community
 5.6.1.        Sharing screenshots using Photo Mode
 5.7.          Legacy, energy, anticipation for a sequel
