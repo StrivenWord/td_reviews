@@ -223,13 +223,15 @@ _5.3.1.        Steam award: Outstanding Story-Rich Game_
 _5.3.1.1.      Community voted_
 _5.3.2.        NVGTR awards *(national academy of video game trade reviews)*_
 _5.3.2.1.      Journalist voted_
+_5.3.2.1.      Original adventure *(the most significant one)*_
+_5.3.2.2.      Art Direction, Period Influence *(may or may not mention)*_
+_5.3.2.3.      Writing in a Drama *(may or may not mention)*_
 The fact that *A Plague Tale* performed so well in the NVGTR Awards reflects the fact that the greater videogame industry is still a field where the sincerity of joy reflected in good narrative and gameplay design can be honored. Issued by and named for the National Academy of Video Game Trade Reviews, this award platform recognized *A Plague Tale* for historically influenced art direction, acknowledged its achievement in the narrative adventure tradition by giving it the Original Adventure award, and honored its intimate character-driven narrative nature with the award for Writing in a Drama.
 
-5.3.2.1.      Original adventure *(the most significant one)*
-5.3.2.2.      Art Direction, Period Influence *(may or may not mention)*
-5.3.2.3.      Writing in a Drama *(may or may not mention)*
-5.3.2.4.      Performance in a Drama, Lead: Charlotte McBurney as Amicia *(may or may not mention)*
-5.4.2.        One million copies sold
+_5.3.2.4.      Performance in a Drama, Lead: Charlotte McBurney as Amicia *(may or may not mention)*_
+_5.4.2.        One million copies sold_
+With Charlotte McBurney's award for her voice performance as a lead character in a drama, with corresponding nominations for supporting characters going to the English voice actors for the charactrs of Lucas and Mélie (Edan Hayhurst and Tabitha Rubens) -- together with further nominations relating to animation and art direction -- reveals the broad, balanced appeal that sustains *A Plague Tale*'s international community.
+
 5.5.          International communities: French, German, Russian, Spanish.
 5.6.          The fandom community
 5.6.1.        Sharing screenshots using Photo Mode
