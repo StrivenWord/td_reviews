@@ -189,7 +189,7 @@ _4.4.          Mechanical genres_
 _4.4.1.        Stealh_
 _4.4.2.        Puzzle adventure game_
 
-*A Plague Tale*'s focus on immersion does not preclude its challenging gamer appeal. This is not a particularly casual game. In fact, it fully implements traditional hardcore gaming elements, even those simplistic as old-school arcade boss-fights. *A Plague Tale* has three such boss fights. The first two of these are at critical story junctures where new mechanics are introduced. The final is at the end of the game, where precise timing and careful resource management are critical. Despite the narrative nature of the experience, gaming mechanics in their simplest forms are still a core part of what *A Plague Tale* embodies and delivers.
+*A Plague Tale*'s focus on immersion does not preclude its challenging gamer appeal. This is not a particularly casual game. In fact, it fully implements traditional hardcore gaming elements, even those simplistic as old-school arcade boss-fights. *A Plague Tale* has three such boss fights. The first two of these are at critical story junctures where new mechanics are introduced. The final is at the end of the game, where precise timing and careful resource management are critical. The National Academy for Video Game Trade Reviews recognized *A Plague Tale*'s technical implementation with nominations for camera direction and for three-dimensional control design. Despite the narrative nature of the experience, gaming mechanics in their simplest forms are still a core part of what *A Plague Tale* embodies and delivers.
 **¶**
 
 _4.4.2.1.      NVGTR award for Original adventure_
@@ -223,7 +223,7 @@ _5.3.1.        Steam award: Outstanding Story-Rich Game_
 _5.3.1.1.      Community voted_
 _5.3.2.        NVGTR awards *(national academy of video game trade reviews)*_
 _5.3.2.1.      Journalist voted_
-The fact that *A Plague Tale* performed so well in the NVGTR Awards reflects the fact that the greater videogame industry is still a field where the sincerity of joy reflected in good narrative and gameplay design can be honored. Issued by and named for the National Academy of Video Game Trade Reviews, this award platform recognized *A Plague Tale* for historically influenced art direction, acknowledged its achievement in the narrative adventure tradition by giving it the Original Adventure award, honored its intimate character-driven narrative nature with the award for Writing in a Drama, and
+The fact that *A Plague Tale* performed so well in the NVGTR Awards reflects the fact that the greater videogame industry is still a field where the sincerity of joy reflected in good narrative and gameplay design can be honored. Issued by and named for the National Academy of Video Game Trade Reviews, this award platform recognized *A Plague Tale* for historically influenced art direction, acknowledged its achievement in the narrative adventure tradition by giving it the Original Adventure award, and honored its intimate character-driven narrative nature with the award for Writing in a Drama.
 
 5.3.2.1.      Original adventure *(the most significant one)*
 5.3.2.2.      Art Direction, Period Influence *(may or may not mention)*
