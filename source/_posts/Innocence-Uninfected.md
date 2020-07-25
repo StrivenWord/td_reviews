@@ -236,9 +236,13 @@ _5.5.          International communities: French, German, Russian, Spanish._
 The French people have adored their own, with many French writers participating on their own language in English-first forums and writing about the game in their languge. It also won six awards in the French competition for gaming awards, the Pégases. Asobo catered to the substantial German gamer community with their German voice acting. Something in the game speaks to a craving for an authentic culture beyond the limits of the specific culture portrayed in the story; perhaps that is why other international communities have celebrated the game without even having voice translations in their languages. Russian content about *A Plague Tale* is plentiful on YouTube, and a prominent website from Spain features the game alongside native Spanish content **[find the website]**. (Besides the three featured languages for the voice acting, there are multiple language packs for captions and for the user interface, inlcuding Russian, Spanish, and Hebrew.)
 **¶**
 
-5.6.          The fandom community
-5.6.1.        Sharing screenshots using Photo Mode
-5.7.          Legacy, energy, anticipation for a sequel
+_5.6.          The fandom community_
+_5.6.1.        Sharing screenshots using Photo Mode_
+_5.7.          Legacy, energy, anticipation for a sequel_
+**¶**
+
+The international fandom community has been marked by clean content, with a disproportionate amount of the fan activities centering around sharing screenshots taken in Photo Mode. People sharing their favorite screenshots is a primary activity on the reddit groups, along with original fan art, video let's plays, and even [fan music] tracks remixing composer Oliver Deriviere's score. The fans have been anticipating the announced sequel, its content and setting a matter of great speculation.
+
 5.8.          Today's context: Coronavirus
 
 ---
