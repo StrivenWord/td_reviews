@@ -250,6 +250,8 @@ _6.1.          Intro: Asobo's late and cautious use of Coronavirus on its Titter
 The fans' memes have particularly reveled in the coincidence of *A Plague Tale* depicting the results of a horrible uncontrolled infectious disease. The irony of the coronavirus hitting at the same time as the hype from the Steam Awards and the NVGTR Awards has very likely sustained interest in the game, something that Asobo's official social media accounts have vaguely alluded to over the intervening months. Whatever Asobo may be planning for the sequel, it seems impossible that the relevance of the pandemic to the main idea driving the mythic backstory could be ignored. At the very least, *A Plague Tale* shows us imagery of vast, external infection being mirrored by the inner psychological struggle of innocent protagonists' trying to preserve their heritage in a time when the whole world is turning upside down.
 **¶**
 
+It is these driving dichotomies that cause *A Plague Tale* to be so emotionally powerful. Even beyond its narrative and thematic dichotomies, the game itself embodies several dichotomies that allow it to be so compelling by bringing forth the best out of different kinds of experiences.
+
 
 ---
 
