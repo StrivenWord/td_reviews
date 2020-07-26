@@ -242,13 +242,17 @@ _5.7.          Legacy, energy, anticipation for a sequel_
 **¶**
 
 The international fandom community has been marked by clean content, with a disproportionate amount of the fan activities centering around sharing screenshots taken in Photo Mode. People sharing their favorite screenshots is a primary activity on the reddit groups, along with original fan art, video let's plays, and even [fan music] tracks remixing composer Oliver Deriviere's score. The fans have been anticipating the announced sequel, its content and setting a matter of great speculation.
+**¶**
 
-5.8.          Today's context: Coronavirus
+_5.8.          Today's context: Coronavirus_
+_6.            Dichotomies_
+_6.1.          Intro: Asobo's late and cautious use of Coronavirus on its Titter_
+The fans' memes have particularly reveled in the coincidence of *A Plague Tale* depicting the results of a horrible uncontrolled infectious disease. The irony of the coronavirus hitting at the same time as the hype from the Steam Awards and the NVGTR Awards has very likely sustained interest in the game, something that Asobo's official social media accounts have vaguely alluded to over the intervening months. Whatever Asobo may be planning for the sequel, it seems impossible that the relevance of the pandemic to the main idea driving the mythic backstory could be ignored. At the very least, *A Plague Tale* shows us imagery of vast, external infection being mirrored by the inner psychological struggle of innocent protagonists' trying to preserve their heritage in a time when the whole world is turning upside down.
+**¶**
+
 
 ---
 
-6.            Dichotomies
-6.1.          Intro: Asobo's late and cautious use of Coronavirus on its Titter
 6.1.2.        Asobo as medium-sized game company: Mainstream AAA vs indie game studios
 6.1.2.1.      Number of people working for Asobo (125?) and who worked on *A Plague Tale* (45)
 6.2.          Explanation/re-iteration of the game's strength by pulling together its dichotomies
