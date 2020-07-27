@@ -250,15 +250,18 @@ _6.1.          Intro: Asobo's late and cautious use of Coronavirus on its Titter
 The fans' memes have particularly reveled in the coincidence of *A Plague Tale* depicting the results of a horrible uncontrolled infectious disease. The irony of the coronavirus hitting at the same time as the hype from the Steam Awards and the NVGTR Awards has very likely sustained interest in the game, something that Asobo's official social media accounts have vaguely alluded to over the intervening months. Whatever Asobo may be planning for the sequel, it seems impossible that the relevance of the pandemic to the main idea driving the mythic backstory could be ignored. At the very least, *A Plague Tale* shows us imagery of vast, external infection being mirrored by the inner psychological struggle of innocent protagonists' trying to preserve their heritage in a time when the whole world is turning upside down.
 **¶**
 
-It is these driving dichotomies that cause *A Plague Tale* to be so emotionally powerful. Even beyond its narrative and thematic dichotomies, the game itself embodies several dichotomies that allow it to be so compelling by bringing forth the best out of different kinds of experiences.
+_6.1.2.        Asobo as medium-sized game company: Mainstream AAA vs indie game studios_
+_6.1.2.1.      Number of people working for Asobo (125?) and who worked on *A Plague Tale* (45)_
+It is these driving dichotomies that cause *A Plague Tale* to be so emotionally powerful. Even beyond its narrative and thematic dichotomies, the game itself embodies several dichotomies that allow it to be so compelling by bringing forth the best out of different kinds of experiences. The first and most obvious of these dichotomies is that of the company itself; Asobo fits in-between the corporate giants and the indie studios. It might be surmised that this mid-sized orientation is the sweet spot for the production of truly great games, as other groundbreaking games have been made by similarly sized teams, such as **[examples]**.
+**¶**
+
+_6.2.          Explanation/re-iteration of the game's strength by pulling together its dichotomies_
+_6.2.1.        Dichotomoy: Traditional core game vs. modern art game_
+At any rate, *A Plague Tale* likewise falls into a gray area between the two conventional taxonomies. Journalists seem to classify as an indie work, and the validity of that designation is granted by the experimental immersiveness, high artistry, and lack of reliance on traditional combat, while its difficult gameplay and its traditional milieu reflect the expectations of the mainstream gaming community. It manages to be both a game that focusing on delivering an artistic experience and a game that is conventionally fun to play.
 
 
 ---
 
-6.1.2.        Asobo as medium-sized game company: Mainstream AAA vs indie game studios
-6.1.2.1.      Number of people working for Asobo (125?) and who worked on *A Plague Tale* (45)
-6.2.          Explanation/re-iteration of the game's strength by pulling together its dichotomies
-6.2.1.        Dichotomoy: Traditional core game vs. modern art game
 6.2.1.1.      Re-iteration that this game is definitely not casual
 6.2.1.2.      Challenging gameplay vs. experimental artistry
 6.2.2.        Dichotomy: Traditional values vs. avante-garde values
