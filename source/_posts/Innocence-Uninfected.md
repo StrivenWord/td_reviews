@@ -257,14 +257,17 @@ It is these driving dichotomies that cause *A Plague Tale* to be so emotionally 
 
 _6.2.          Explanation/re-iteration of the game's strength by pulling together its dichotomies_
 _6.2.1.        Dichotomoy: Traditional core game vs. modern art game_
-At any rate, *A Plague Tale* likewise falls into a gray area between the two conventional taxonomies. Journalists seem to classify as an indie work, and the validity of that designation is granted by the experimental immersiveness, high artistry, and lack of reliance on traditional combat, while its difficult gameplay and its traditional milieu reflect the expectations of the mainstream gaming community. It manages to be both a game that focusing on delivering an artistic experience and a game that is conventionally fun to play.
+_6.2.1.1.      Re-iteration that this game is definitely not casual_
+_6.2.1.2.      Challenging gameplay vs. experimental artistry_
+At any rate, *A Plague Tale* likewise falls into a gray area between the two conventional taxonomies. Journalists seem to classify as an indie work, and the validity of that designation is granted by the experimental immersiveness, high artistry, and lack of reliance on traditional combat, while its difficult gameplay and its traditional milieu reflect the expectations of the mainstream gaming community. It manages to be both a game that focusing on delivering an artistic experience and a game that is conventionally fun to play. This focus allows *A Plague Tale* to confront players with its thematic dichotomy by presenting the dichotomy betwen its traditional Western setting, affirming and following many traditinal Western values and expectation, while subverting the tropes associated with traditional stories.
+**¶**
+
+_6.2.2.        Dichotomy: Traditional values vs. avante-garde values_
+Here on the one hand is
 
 
 ---
 
-6.2.1.1.      Re-iteration that this game is definitely not casual
-6.2.1.2.      Challenging gameplay vs. experimental artistry
-6.2.2.        Dichotomy: Traditional values vs. avante-garde values
 6.2.2.1.      More-or-less conservative worldview
 6.2.2.2.      ...however, not following the traditional heroic pattern at all
 6.2.2.3.      ...giving lots of agency to women, with a lead female character
