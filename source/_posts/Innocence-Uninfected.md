@@ -259,18 +259,21 @@ _6.2.          Explanation/re-iteration of the game's strength by pulling togeth
 _6.2.1.        Dichotomoy: Traditional core game vs. modern art game_
 _6.2.1.1.      Re-iteration that this game is definitely not casual_
 _6.2.1.2.      Challenging gameplay vs. experimental artistry_
-At any rate, *A Plague Tale* likewise falls into a gray area between the two conventional taxonomies. Journalists seem to classify as an indie work, and the validity of that designation is granted by the experimental immersiveness, high artistry, and lack of reliance on traditional combat, while its difficult gameplay and its traditional milieu reflect the expectations of the mainstream gaming community. It manages to be both a game that focusing on delivering an artistic experience and a game that is conventionally fun to play. This focus allows *A Plague Tale* to confront players with its thematic dichotomy by presenting the dichotomy betwen its traditional Western setting, affirming and following many traditinal Western values and expectation, while subverting the tropes associated with traditional stories.
+At any rate, *A Plague Tale* likewise falls into a gray area between the two conventional taxonomies. Journalists seem to classify as an indie work, and the validity of that designation is granted by the experimental immersiveness, high artistry, and lack of reliance on traditional combat, while its difficult gameplay and its traditional milieu reflect the expectations of the mainstream gaming community. It manages to be both a game that focusing on delivering an artistic experience and a game that is conventionally fun to play. This focus allows *A Plague Tale* to confront players with its thematic dichotomy by presenting the dichotomy betwen its traditional Western setting, affirming and following many traditional Western values and expectation, while subverting the tropes associated with traditional stories.
 **¶**
 
 _6.2.2.        Dichotomy: Traditional values vs. avante-garde values_
-Here on the one hand is
+_6.2.2.1.      More-or-less conservative worldview_
+Here is a more-or-less conservative story, emphasizing family values in a milieu that celebrates Western history and culture unashamedly, with a narrative that in many ways challenges and subverts the traditional heroic pattern. There is no feeling of deliberate intentionality behind the game's being set in the Christian West, but there is also no meta commentary, criticism, or contextualization of the Christian West, except for the historical context. In a time characterized by internal awareness and self-criticism of the traditions forming historical perspectives, and especially critical awareness of the role of Western perspectives, *A Plague Tale* avoids the plague of being all about itself. It avoids both self-criticism and self-absorbed glorying, it would be as inaccurate to call it politically conservative for sincerely depicting the Christian West as it would be to call it politically liberal for representing a young woman decimating the ranks of a patriarchal Catholic para-military organization.
+**¶**
 
+_6.2.2.2.      ...however, not following the traditional heroic pattern at all_
+_6.2.2.3.      ...giving lots of agency to women, with a lead female character_
+For that matter, the game does indeed subvert traditional expectations as well as *avant-garde* ones. The simple, intimate story is not a heroic epic; in the context of the mythological backstory, the fact of its simple character-based narrative seems like a defiance and a subversion of self-aggrandizing epic Western fantasy. More importantly, the gameplay does not glorify action heroism in the same way that traditional hardcore gaming traditionally provides entertainment value. Where it does feature fast-twitch violence, the aesthetic of Amicia and company smashing the Inquisition really does produce a pro-feminist vibe. But all of this lies parallel to the most important subversion: Here is a game that honors family but that is not "family friendly."
+**¶**
 
 ---
 
-6.2.2.1.      More-or-less conservative worldview
-6.2.2.2.      ...however, not following the traditional heroic pattern at all
-6.2.2.3.      ...giving lots of agency to women, with a lead female character
 6.2.3.        Dichotomy: broken adulthood vs. childhood
 6.2.3.1.      ...a game that honors family but that is not "family friendly"
 6.2.3.1.1.    Rated "M" but still advisable for children and families
