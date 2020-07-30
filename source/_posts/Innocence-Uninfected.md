@@ -274,9 +274,13 @@ For that matter, the game does indeed subvert traditional expectations as well a
 
 ---
 
-6.2.3.        Dichotomy: broken adulthood vs. childhood
-6.2.3.1.      ...a game that honors family but that is not "family friendly"
-6.2.3.1.1.    Rated "M" but still advisable for children and families
+_6.2.3.        Dichotomy: broken adulthood vs. childhood_
+_6.2.3.1.      ...a game that honors family but that is not "family friendly"_
+_6.2.3.1.1.    Rated "M" but still advisable for children and families_
+In many respects, *A Plague Tale* feels like it may have been designed to appeal to children. The realistic, endearing portrayal of the small interactions of the child and teen characters and the narrative's depiction of the young struggling against the corrupt adult world make the game relatable for players who are children, to be sure. An even more childlike quality is the game's titular sense of innence, a pervasive theme and feeling of wholesomeness and sincerity that encapsulates the whole experience. *A Plague Tale* is indeed a good game for young players, with its virtue, its adventure, its sincere portrayal of the psychological experience of childhood. Children who play this game are confronted with an experience much like the fairy tales of old, before they were sanitized into Disney movies -- stories showing, as G.K. Chesterton famously said, that dragons can be defeated.
+**¶**
+
+
 6.2.4.        Dichotomy: Virtuous joy vs. seriousness
 6.3.4.1.      Comparisons -- Tolkien *(maybe)*, sainthood
 
