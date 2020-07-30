@@ -277,11 +277,18 @@ For that matter, the game does indeed subvert traditional expectations as well a
 _6.2.3.        Dichotomy: broken adulthood vs. childhood_
 _6.2.3.1.      ...a game that honors family but that is not "family friendly"_
 _6.2.3.1.1.    Rated "M" but still advisable for children and families_
+_6.2.4.        Dichotomy: Virtuous joy vs. seriousness_
 In many respects, *A Plague Tale* feels like it may have been designed to appeal to children. The realistic, endearing portrayal of the small interactions of the child and teen characters and the narrative's depiction of the young struggling against the corrupt adult world make the game relatable for players who are children, to be sure. An even more childlike quality is the game's titular sense of innence, a pervasive theme and feeling of wholesomeness and sincerity that encapsulates the whole experience. *A Plague Tale* is indeed a good game for young players, with its virtue, its adventure, its sincere portrayal of the psychological experience of childhood. Children who play this game are confronted with an experience much like the fairy tales of old, before they were sanitized into Disney movies -- stories showing, as G.K. Chesterton famously said, that dragons can be defeated.
 **¶**
 
+But if *A Plague Tale* may be a good game for children, it is an even better game for adults. Asobo's marketing and promotion of the game is oriented toward adults, with promotional artwork using darkness and light to suggest dirtiness and corruption, evoking a grimdark aesthetic that is not at all thematically present in the narrative.
+**[inline image: A Plague Tale poster/coverart]**
 
-6.2.4.        Dichotomy: Virtuous joy vs. seriousness
+The narrative itself, though aligned with its childhood protagonists, is not without direct relevance to adults. The adult figures in this story are Amicia and Hugo's parents, Lord Robert and Lady Beatrice De Rune. Their adult perspective frames the opening sequences of the game, characterizing Amicia and Hugo with their parental concern, and their perspective is later validated as the justification for the childrens' struggle as well as their resource without which they could not succeed. For in *A Plague Tale*, the children are fighting to preserve and defend their parents instead of the other way around. This reversal of the typical parent-child relationship allows adult players to become innocent children again. The reciprocal relationsip between childhood and adulthood -- the mutual reflection of childhood in adulthood and adulthood in childhood -- is a characteristic of storytelling that posses the primal sincerity of sacred myth. The wise child possesing the maturity of old age and the playful adult possessing the sincere exuberance of youth are both saintly figures. The great success of *A Plague Tale*'s intricate narrative artistry, affected and emerging out of the entire experience of the game as a whole, is that it uses its main theme of the sanctity of childhood innocence to honor adulthood.
+**¶**
+
+
+
 6.3.4.1.      Comparisons -- Tolkien *(maybe)*, sainthood
 
 ---
