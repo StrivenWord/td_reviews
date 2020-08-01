@@ -292,14 +292,14 @@ The narrative itself, though aligned with its childhood protagonists, is not wit
 _7.            Closing_
 _7.1.          Dichotomy between youth and adulthood gives it a feeling of timelessness._
 
-The game is rated Mature for "Blood and Gore, strong language, and violence," but that designation seems irrelevant. (The strong language comes from the vocabulary of some of the enemy NPCs, but let's face the truth that today's children have already heard *all the words*.) As an adult game, this is the kind of adult game that children can play, as opposed to the immature games that some adults want to play. All content and sociopolitical considerations taken into account, the game is probably one of the least potentially offensive pieces of popular media of the decade, delivering a serious story in a respectful and timeless fashion.
-
-
-
+The game is rated Mature for "Blood and Gore, strong language, and violence," but that designation seems irrelevant. (The strong language comes from the vocabulary of some of the enemy NPCs, but let's face the truth that today's children have already heard *all the words*.) As an adult game, this is the kind of adult game that children can play, as opposed to the immature games that some adults want to play. All content and sociopolitical considerations taken into account, the game is probably one of the least potentially offensive pieces of popular media of the decade, delivering a serious story in a respectful and timeless fashion. This experience of depth and maturity from within the perspective of childhood innocence sustains the experience from the opening tutorial sequence, through the action sequences, puzzles, and narrative content of the midgame, through to the sometimes incongruously difficult boss fights to the final closing act.
 
 ---
 
-7.2.          Final comparison: 14th century medieval English poem *Pearl*
+_7.2.          Final comparison: 14th century medieval English poem *Pearl*_
+
+Because of the wide relevance of its historical setting and its universal themes, countless comparisons could be made with all kinds of cultural works. Here is one less well known but strongly relevant comparison: the anonymous medieval English poem entitled *The Pearl*. That poem was actually written in the very same century in which *A Plague Tale* is set. It is easy to imagine the young girl who is the subject of *The Pearl*, believed to be the daughter of the author and viewpoint narrator of the epic poem, as a contemporary of Amicia and Hugo from across the Channel. In lamentation of the death of his daughter, perhaps in the very same plague for which *A Plague Tale* was named, the author of *The Pearl* engaged in a lengthy lament on the concept of the death of the innocent. In one of the major sections of the epic, the specific refrain repeated at the end of each stanza reads in Middle English, "The innocent are safe by right." The poem expresses the agonized confusion over the fact that innocent children suffer and die, and the poet's conclusion resonates well with one of the strongest subjective narrative inferrences from *A Plague Tale*, that though the innocent are vulnerable, though they are forced to suffer and to comprise, that even their camaraderie and friendship can be broken, they will persevere and will be vindicated.
+
 7.3.          Final impressions
 7.3.1.        ...the kind of game that awakens in the adult player to desire to again play...
 7.3.2.        ...maturity of virtuous children, youthfulness of virtuous adults
