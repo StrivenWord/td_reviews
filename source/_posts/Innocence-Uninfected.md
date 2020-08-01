@@ -287,14 +287,18 @@ But if *A Plague Tale* may be a good game for children, it is an even better gam
 The narrative itself, though aligned with its childhood protagonists, is not without direct relevance to adults. The adult figures in this story are Amicia and Hugo's parents, Lord Robert and Lady Beatrice De Rune. Their adult perspective frames the opening sequences of the game, characterizing Amicia and Hugo with their parental concern, and their perspective is later validated as the justification for the childrens' struggle as well as their resource without which they could not succeed. For in *A Plague Tale*, the children are fighting to preserve and defend their parents instead of the other way around. This reversal of the typical parent-child relationship allows adult players to become innocent children again. The reciprocal relationsip between childhood and adulthood -- the mutual reflection of childhood in adulthood and adulthood in childhood -- is a characteristic of storytelling that posses the primal sincerity of sacred myth. The wise child possesing the maturity of old age and the playful adult possessing the sincere exuberance of youth are both saintly figures. The great success of *A Plague Tale*'s intricate narrative artistry, affected and emerging out of the entire experience of the game as a whole, is that it uses its main theme of the sanctity of childhood innocence to honor adulthood.
 **¶**
 
+**[6.3.4.1.      Comparisons -- Tolkien *(maybe)*, sainthood]**
+
+_7.            Closing_
+_7.1.          Dichotomy between youth and adulthood gives it a feeling of timelessness._
+
+The game is rated Mature for "Blood and Gore, strong language, and violence," but that designation seems irrelevant. (The strong language comes from the vocabulary of some of the enemy NPCs, but let's face the truth that today's children have already heard *all the words*.) As an adult game, this is the kind of adult game that children can play, as opposed to the immature games that some adults want to play. All content and sociopolitical considerations taken into account, the game is probably one of the least potentially offensive pieces of popular media of the decade, delivering a serious story in a respectful and timeless fashion.
 
 
-6.3.4.1.      Comparisons -- Tolkien *(maybe)*, sainthood
+
 
 ---
 
-7.            Closing
-7.1.          Dichotomy between youth and adulthood gives it a feeling of timelessness.
 7.2.          Final comparison: 14th century medieval English poem *Pearl*
 7.3.          Final impressions
 7.3.1.        ...the kind of game that awakens in the adult player to desire to again play...
