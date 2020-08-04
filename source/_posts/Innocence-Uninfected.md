@@ -307,7 +307,16 @@ In the end, Amicia and her little brother face down the corruption lurking withi
 
 _7.3.1.        ...the kind of game that awakens in the adult player to desire to again play..._
 
-There at the end, the children find the simplicity at the root of community, while adult players find the child-look desire to play reawakened within them.
+There at the end, the children find the simplicity at the root of community, while adult players find the child-like desire to play reawakened within them.
 
-7.3.2.        ...maturity of virtuous children, youthfulness of virtuous adults
-7.3.3.        ...defies the deadness of age and calls us to create and build in our own diseased era
+_7.3.2.        ...maturity of virtuous children, youthfulness of virtuous adults_
+
+The great strength of *A Plague* tale is that it strikes the right balance of power and helplessness. This strikes an emotional chord resonating across the age range and especially with adult players. It is the chord of innocence, and it calls us to defy the deadness of age and to persevere through distress and hypocrisy.
+
+_7.3.3.        ...defies the deadness of age and calls us to create and build in our own diseased era_
+
+Living once again through an era of plague, this game calls us to defy the psychological forces of apathy, inactivity, and decay and instead to rise up to live and to build, to fight to have something meaningful and worthwhile in our society once a *status quo* is obtained.
+**¶**
+
+Come what may for the twenty-first century or for Asobo's greatly anticipated sequel in the fourteenth, the gaming community is richer for the magnificent depiction of family honor in *A Plague Tale: Innocence*.
+**¶**
