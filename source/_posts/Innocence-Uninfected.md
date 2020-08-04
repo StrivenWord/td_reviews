@@ -298,9 +298,16 @@ The game is rated Mature for "Blood and Gore, strong language, and violence," bu
 
 _7.2.          Final comparison: 14th century medieval English poem *Pearl*_
 
-Because of the wide relevance of its historical setting and its universal themes, countless comparisons could be made with all kinds of cultural works. Here is one less well known but strongly relevant comparison: the anonymous medieval English poem entitled *The Pearl*. That poem was actually written in the very same century in which *A Plague Tale* is set. It is easy to imagine the young girl who is the subject of *The Pearl*, believed to be the daughter of the author and viewpoint narrator of the epic poem, as a contemporary of Amicia and Hugo from across the Channel. In lamentation of the death of his daughter, perhaps in the very same plague for which *A Plague Tale* was named, the author of *The Pearl* engaged in a lengthy lament on the concept of the death of the innocent. In one of the major sections of the epic, the specific refrain repeated at the end of each stanza reads in Middle English, "The innocent are safe by right." The poem expresses the agonized confusion over the fact that innocent children suffer and die, and the poet's conclusion resonates well with one of the strongest subjective narrative inferrences from *A Plague Tale*, that though the innocent are vulnerable, though they are forced to suffer and to comprise, that even their camaraderie and friendship can be broken, they will persevere and will be vindicated.
+Because of the wide relevance of its historical setting and its universal thems, countless comparisons could be made with all kinds of cultural works. Here is one less well known but strongly relevant comparison: the anonymous medieval English poem entitled *The Pearl*. That poem was actually written in the very same century in which *A Plague Tale* is set. It is easy to imagine the young girl who is the subject of *The Pearl*, believed to be the daughter of the author and viewpoint narrator of the epic poem, as a contemporary of Amicia and Hugo from across the Channel. In lamentation of the death of his daughter, perhaps in the very same plague for which *A Plague Tale* was named, the author of *The Pearl* engaged in a lengthy lament on the concept of the death of the innocent. In one of the major sections of the epic, the specific refrain repeated at the end of each stanza reads in Middle English, "The innocent are safe by right." The poem expresses the agonized confusion over the fact that innocent children suffer and die, and the poet's conclusion resonates well with one of the strongest subjective narrative inferrences from *A Plague Tale*, that though the innocent are vulnerable, though they are forced to suffer and to comprise, that even their camaraderie and friendship can be broken, they will persevere and will be vindicated.
+**¶**
 
-7.3.          Final impressions
-7.3.1.        ...the kind of game that awakens in the adult player to desire to again play...
+_7.3.          Final impressions_
+
+In the end, Amicia and her little brother face down the corruption lurking within their ancient heraldry and carry their heritage with them to the edge of the Sea, where many fellowships find their end in many such stories. **[The narrative arc does not match up perfectly with the climax of the gameplay.]**
+
+_7.3.1.        ...the kind of game that awakens in the adult player to desire to again play..._
+
+There at the end, the children find the simplicity at the root of community, while adult players find the child-look desire to play reawakened within them.
+
 7.3.2.        ...maturity of virtuous children, youthfulness of virtuous adults
 7.3.3.        ...defies the deadness of age and calls us to create and build in our own diseased era
