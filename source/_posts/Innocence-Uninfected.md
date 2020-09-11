@@ -10,8 +10,6 @@ tags: [fantasy, low-fantasy, historical, pc-game]
 
 Children of the First Pandemic
 
- 
-
 
 The year 2019 saw the outbreak of disease leading to widespread social unrest in Europe.
 
@@ -24,7 +22,7 @@ The year is 1348, one year following the historical outbreak of the Black Death 
 
 A Plague Tale wins its players’ hearts not only due to the lovely camaraderie of its young cast, but also due to its strategic and puzzle-solving adventure-genre characteristics and the feeling of constant acceleration incited by the the  narrative design. To identify what makes A Plague Tale rewarding and unique, we’ll need to cover both its artistically portrayed character-based story as well as its implementation of its gameplay features. First, though, we should go over the unifying factor that holds this beautiful together – it’s setting, a historical interactive landscape full of beauty and depth but also terror and decay.
 
- 
+ {% asset_img td_a-plague_de-rune-siblings.jpg "Amicia and Hugo De Rune" %}
 
 
 Leveraging the genere conventions of its setting – knights and castles, armor and ruins – A Plague Tale exudes the sense of the medieval ethos at every turn. It accomplishes this by depicting its historical detail from its characters' own medieval worldview, showing the fear and the social disturbances of the 14th-century pandemic in a way that feels authentically medieval.
