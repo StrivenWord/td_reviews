@@ -33,8 +33,7 @@ The fantastic and the historical are united in this vivid setting through an abi
 
 Several types of objects, unnecessary for completing the chapters, are found often in out-of-the-way places. When discovered, these items are added to the Inventory menu, where informational dialogs are displayed along with the 3d artwork for each object, explaining its historical significance. These come in three different categories -- "Curiosities" for everyday objects that illustrate medieval life, "Gifts" for knick-knacks that the children find during the course of the game, and "Hugo's Herbarium" for flowers, which when discovered prompt Hugo to pick the flower from the ground and place it in his sister's hair.
 
- 
-
+{% asset_img td_a-plague-tale_violet1.jpg "Hugo offers a violet to his sister Amicia, who bends down to allow him to put it in her hair." %}
 
 That detailed historical intrigue interlaced in the story’s setting and the game’s environment is best described by examples. In a meticulously and hauntingly rendered interior of a large, austere church, a simple fourteenth-century rosary can be found. When discovered, Amicia tells Hugo what it is. Hugo picks up a wooden shield from a fallen English shoulder near the scene of a recent battle of the contemporaneous Hundred Years’ War, and the children soon encounter one of the foreign invaders in a powerful expression of empathy. A genealogy listing Amicia and Hugo’s lineage gathers dust in a castle surrounded by statuary and tapestries depicting mysterious alchemical symbolism.
 
@@ -43,7 +42,7 @@ These details and many others like them objectify a more objective way of thinki
 
 The central presence of religion in the society depicted in A Plague Tale is frequently and subtly referenced. Multiple church structures are featured prominently at various points in the game, often at critical plot junctures. The church interiors, with basic stone statuary and side altars as well as simply painted interior domes, reflect a time when Christianity was more unified and objective. The churches could be Orthodox and in their stone austerity almost look Reformed, despite being solidly Western and Catholic in their historical context.
 
- 
+{% asset_img td_a-plague-tale_stone-cross.jpg "Amicia and Hugo staring at a stone cross monument on a battlefield" %}
 
 Religion in the story appears starkly contrasted between the imperial, self-righteous zeal of the Inquisition and the innocent faith of Hugo and Amicia's prayers. As much as religion is depicted as a force of evil through the zealotry of the Inquisition soldiers, the artifacts of religion in society are continually portrayed as a positive, a psychological defense for the poor children against their trauma. Churches throughout the game are portrayed as places of safety, refuges for the children's threatened innocence.
 
@@ -53,7 +52,7 @@ But A Plague Tale is not a religious game, in the same way, for example, that th
 
 Asobo seems to shy away from the fantasy genre label, preferring to promote the game as historical drama. This is reasonable, as nothing in the world as presented would be far outside the expectations of reality from the characters' medieval worldview. However, the story's grand-scale mysticism functions as a kind of fantasy, the low kind, where the mythological has retreated into the artefacts of history. Alchemy unites the legend with the gameplay itself and with the greater plot. The gnostic references and alchemical paraphernalia offer up the leftover remains of the great spiritual forces of epic myth after they have passed into our historical experience.
  
-
+{% asset_img td_a-plague-tale_codex.jpg "The Codex interface of <em>A Plague Tale</em>, showing a Gnostic scroll" %}
 
 The historical context serves as a referee in the game's story construction, mediating between the immediate drama and the mythological background from the framing plot. The practical relevance of the historical context to the game is that it builds the aesthetic incentive for continuing to interact with the narrative. While the realistic graphics, exhibiting a lovely pastel color design, are greatly involved in the aesthetic motivation, the desire to play in order to experience the narrative is also central to the game’s aesthetic design.
 
@@ -64,7 +63,6 @@ The linear narrative design exhibited in A Plague Tale confines the experience t
 Although keenly relatable on an emotional level in the narrative, the characters never feel very much like avatars for the player. In fact, there is not even one specific player character for players to identify with. Through most of the game, the third-person over-the-shoulder viewpoint follows Amicia and Hugo together, and at various times the party includes other characters who can perform tasks at the player's initiation. Instead of being blank canvases for players to fill with their own self-actualization, these characters are part of the brush by which the game and the player cooperate to paint within the lines.
 
 Within those pre-drawn lines, A Plague Tale grants players situational freedom to experience interactively its romanticized medieval aesthetic and its moral depth. This is most evident in situations where the player has to decide whether or not to save people from being killed or whether or not to allow guilty enemies to be killed in the process of solving a problem. Choosing to save lives requires more thought and skill and rewards the player with the immediate narrative recognition of the accomplishment in the brief and deeply moving scripted moments of character interaction. These scripted events recognize the moral significance as well as the emotional impact inherent in the player’s choice. The game excels at accommodating multiple strategies and for rewarding ingenuity and small-scale exploration, and the most significant of those rewards are the secret, spontaneous beats -- scripted dialog and reactions, as well as alternative solutions and optional places to explore in the various chapters.
-
 
 Player agency in A Plague Tale arises holistically out of its gamplay mechanics. The primary gameplay genre is definitively [stealth](https://en.wikipedia.org/wiki/Stealth_game), firmly in the tradition of live action games where success is dependent on one's ability to sneak past enemies or otherwise avoid direct conflict. In A Plague Tale, standing and fighting is not an option, but players are still afforded the choice of how to get by the numerous opponents, with options often including higher violence solutions involving Amicia's ranged attack with her sling and lower-violence solutions based on distracting enemies. Associated with the strategic side of the stealth problem solving is the secondary genre – the adventure game genre. This genre becomes evident when the player must search the environment for creative solutions to solve problems and move onward.
 
@@ -82,7 +80,7 @@ Chief among these mechanics is the progressively introduced munitions feature, w
 
 Despite the narrative nature of the experience, gaming mechanics in their simplest forms are still a core part of what A Plague Tale embodies and delivers. While the game evokes comparisons on the one hand with artistic narrative-driven indie titles, it also feels like a console action-adventure game such as, for instance, the 2013 Tomb Raider, with which it shares several conceptual characteristics -- adventure-style narrative and spatial puzzles, live action mechanics, equipment upgrades, and female action heroine protagonists. Though Laura Croft may have more toys at her disposal, Amicia De Rune and A Plague Tale possess a level of self-sufficient confidence that the hipsters can only play at.
 
- 
+{% asset_img td_a-plague-tale_amicia-crawling-through-bones.jpg "Amicia crawling through bones" %}
 
 The gamer community on the Steam platform elected A Plague Tale as 2019’s Outstanding Story-Rich Game, while the community of videogame journalists awarded it four awards and nominated it for 18 in the NVGTR awards, making it the game with the highest number of nominations. The game’s lack of superfluous violence in its implementation of its feature set must have been a creative risk; and it evidently paid off, as Asobo announced on July 1 that the game had sold a million copies. 
 
