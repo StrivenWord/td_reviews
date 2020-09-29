@@ -7,7 +7,6 @@ main_image_alt: screenshot of A Plague Tale Innocence featuring Amicia and Hugo 
 date: 2020-06-24 02:09:40
 tags: [fantasy, low-fantasy, historical, pc-game]
 ---
- 
 
 
 The year 2019 saw the outbreak of disease leading to widespread social unrest in Europe.
@@ -19,9 +18,11 @@ Launched one year before the coronavirus reset many of our expectations, A Plagu
 You should know **thre things abou*t A Plague Tale. It’s a straight shot through a simple story inside of an action-adventure game. It’s both a fun videogame and a sophisticated experience designed for both artistic impact and nerd cred. Most importantly, it’s a serious, joyful game for both children and adults that bridges the gap between them. To achieve this, *A Plague Tale* starts out with a family scene from an idyllic and detailed vision of the European Middle Ages.
 The year is 1348, one year following the outbreak of the Black Death in Europe, in the kingdom of Aquitaine in southwestern France. Fifteen year-old noblewoman Amicia De Rune must protect her five year-old brother Hugo as they flee for their lives from the murderous Inquisition, who are imposing a martial quarantine. The De Rune siblings meet other displaced children along the way, who join the party at various points to utilize their youthful competence as they unravel the mysteries of the De Rune family and of the plague. Along the journey, the children encounter eerie parallels to our current daily experience -- rumors of an encroaching illness spreading through the land, causing social unrest leading to an atmosphere of distrust while the political pot begins to boil over.
 
+<!-- more -->
+
 *A Plague Tale* wins its players’ hearts not only due to the lovely camaraderie of its young cast, but also due to its strategic and puzzle-solving adventure-genre characteristics and the feeling of constant acceleration incited by the narrative design. To identify what makes *A Plague Tale* rewarding and unique, we’ll need to cover both its artistically portrayed character-based story as well as its implementation of its gameplay features. First, though, we should go over the unifying factor that holds this masterpiece together -- its setting, a historical interactive landscape full of beauty and depth but also terror and decay.
 
- {% asset_img td_a-plague_de-rune-siblings.jpg "Amicia and Hugo De Rune" %} 
+{% asset_img td_a-plague_de-rune-siblings.jpg "Amicia and Hugo De Rune" %} 
 
 Leveraging the genre conventions of its setting -- knights and castles, armor and ruins -- *A Plague Tale* exudes the sense of the medieval ethos at every turn. It accomplishes this by depicting its historical detail from its characters’ own medieval worldview, showing the fear and the social disturbances of the 14th-century pandemic in a way that feels authentically medieval.
 
@@ -100,7 +101,6 @@ Something in the game speaks to a craving for an authentic culture beyond the li
 The sentiment that the fan content disproportionately picks up on is the affectionate family bond between sister and brother and between the De Rune siblings and their parents, who are featured prominently in the first chapters. Family affection is certainly a leading emotional beat in the story and in the official supporting media released from Asobo. However, Asobo itself seems to prefer to emphasize its heavier emotional themes. From the design of the cover art to the many promotional videos produced by Asobo’s distributor Focus Interactive, the official marketing has branded the game as a serious, grim historical drama, noting Amicia’s and Hugo’s psychological trauma. The official [announcement video](https://www.youtube.com/watch?v=-HaPvRrmA8Y), presented in the 2017 E3 gamer’s convention, depicted the then-upcoming game as solid Gothic horror. Later on, Focus Interactive hired Sean Bean to star in one of the [release trailers](https://youtu.be/LtPclEoODrc), narrating a classic poem by William Blake with intense melodrama. This famous actor’s participation automatically evokes comparison with A Game of Thrones, and it seems like that series’ well-known tragic and brutal take on a medieval milieu appears to align with at least Focus Interactive’s marketing of the game. Yet it is the other motion picture franchise for which Sean Bean is known that better represents *A Plague Tale*’s aesthetic and spirit.
 
 While *A Plague Tale* is indeed serious and may well be frightening, even its shock horror sequences showing the children wandering through putrid corpses fail to approach the coarse, unmitigated despair favored by the grimdark movement. Even in the darkest of scenes, even when making an explicit point about how the children are being forcibly ejected from their innocent ignorance, the game always honors the childrens’ innocence. The closest the game approaches to the total tragedy of grimdark is during an interactive sequence when the player may choose to have Amicia act vengefully, but even there the context of the tragedy is different from the empathetic but hopeless moral ruin of grimdark characters.
-
 
 Because the childhood characters are so justified in their tragedy, the game has a pervasive childlike quality. This creates that sense of adorableness that the fan community has picked up on. The dark tragedy in the game is part of its identity but does not dominate the titular quality of innocence. It is this aesthetic duality of the coexistence without contamination of virtue with stark horror that empowers the game’s more explicit narrative duality concerning the disparity of childhood and adulthood.
 
