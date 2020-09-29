@@ -21,15 +21,11 @@ The year is 1348, one year following the outbreak of the Black Death in Europe, 
 
 *A Plague Tale* wins its players’ hearts not only due to the lovely camaraderie of its young cast, but also due to its strategic and puzzle-solving adventure-genre characteristics and the feeling of constant acceleration incited by the narrative design. To identify what makes *A Plague Tale* rewarding and unique, we’ll need to cover both its artistically portrayed character-based story as well as its implementation of its gameplay features. First, though, we should go over the unifying factor that holds this masterpiece together -- its setting, a historical interactive landscape full of beauty and depth but also terror and decay.
 
- 
-
+ {% asset_img td_a-plague_de-rune-siblings.jpg "Amicia and Hugo De Rune" %} 
 
 Leveraging the genre conventions of its setting -- knights and castles, armor and ruins -- *A Plague Tale* exudes the sense of the medieval ethos at every turn. It accomplishes this by depicting its historical detail from its characters’ own medieval worldview, showing the fear and the social disturbances of the 14th-century pandemic in a way that feels authentically medieval.
 
-
-
 The fantastic and the historical are united in this vivid setting through an abiding sense of authenticity. This authenticity is perhaps borne of the close relationship between the developers and the land, for the game development company Asobo Studio is based out of the city of Bordeaux in the very locale where their game is set. Narrative designer Sébastien Renard [commented](https://www.reddit.com/r/Games/comments/bo2ygy/ama_we_are_asobo_studio_developers_of_a_plague/enc0k9j?utm_source=share&utm_medium=web2x&context=3) on Reddit regarding the creative inspiration for the setting, “As we’re French, living in a city with a rich and heavy past, we walk all day long in the shadow of medieval monuments, so it helps imagine the way villages and cities were built, what the countryside looked like, etc.”
-
 
 That detailed historical intrigue interlaced in the story’s setting and the game’s environment is best described by examples:
 
@@ -37,12 +33,11 @@ That detailed historical intrigue interlaced in the story’s setting and the ga
 2.	A genealogy listing Amicia and Hugo’s lineage gathers dust in a castle surrounded by statuary and tapestries depicting mysterious alchemical symbolism.
 3.	In a meticulously and hauntingly rendered interior of a large, austere church, a simple fourteenth-century rosary can be found. When discovered, Amicia tells Hugo what it is, and they resolve to use it later to pray for their parents.
 
-
 Scenery of ruins and statuary expresses the aura of layered civilization, of an already old period of history building on the bones of generations still more ancient and mysterious. The medieval characters of *A Plague Tale* might not know the complete history of Roman activity in Europe, but a simple journey takes them to centuries’ old fortifications containing devices, structures, symbols, and information that they can use to escape danger. This creates a world full of material significance, an objective world close to its sources of meaning. In the game, the reverential attitude of the Middle Ages arises naturally out of this direct relationship to the forces at play in the world.
 
 The central presence of religion in the society depicted in *A Plague Tale* is modeled in the game world. Multiple church structures are featured prominently at various points in the game, often at critical plot junctures. The church interiors, with basic stone statuary and side altars as well as simply painted interior domes, reflect a time when Christianity was more unified and objective. The churches could be Orthodox and in their stone austerity almost look Reformed, despite being solidly Western and Catholic in their historical context.
 
- 
+{% asset_img td_a-plague-tale_stone-cross.jpg "Amicia and Hugo staring at a stone cross monument on a battlefield" %}
 
 Religion in the story appears starkly contrasted between the imperial, self-righteous zeal of the Inquisition and the innocent faith of Hugo and Amicia’s prayers. As much as religion is depicted as a force of evil through the zealotry of the Inquisition soldiers, the artifacts of religion in society are continually portrayed as a positive, a psychological defense for the poor children against their trauma. Churches throughout the game are portrayed as places of safety, refuges for the children's threatened innocence.
 
@@ -52,7 +47,7 @@ But *A Plague Tale* is not a religious game, in the same way, for example, that 
 
 Asobo seems to shy away from the fantasy genre label, preferring to promote the game as historical drama. This is reasonable, as nothing in the world as presented would be far outside the expectations of reality from the characters’ medieval worldview. However, the story’s grand-scale mysticism functions as a kind of fantasy, the low kind, where the mythological has retreated into the artifacts of history. Alchemy unites the legend with the gameplay itself and with the greater plot. The gnostic references and alchemical paraphernalia offer up the leftover remains of the great spiritual forces of epic myth after they have passed into our historical experience.
  
-
+{% asset_img td_a-plague-tale_codex.jpg "The Codex interface of <em>A Plague Tale</em>, showing a Gnostic scroll" %}
 
 The historical context serves as a referee in the game’s story construction, mediating between the immediate drama and the mythological background from the framing plot. The practical relevance of the historical context to the game is that it builds the aesthetic incentive for continuing to interact with the narrative. 
 
@@ -66,7 +61,7 @@ Immersion is a sense of being inside of a game’s simulation, but in *A Plague 
 
 The seamlessly captivating visual experience works together with the attention to detail expounded at every level, even outside of the actual game-world simulation. The game keeps track of various objects that the player may encounter, which trigger narrative sequences when the characters find them but have no major role in the story and do not affect gameplay. In the game menu, these objects are listed in a “Codex” screen, where brief historical blurbs are displayed along with the 3d artwork for each object. These special easter-egg objects come in three different categories -- “Curiosities” for everyday objects that illustrate medieval life, “Gifts” for knick-knacks that the children find during the course of the game, and “Hugo’s Herbarium” for flowers, which when discovered prompt Hugo to pick the flower from the ground and place it in his sister’s hair.
 
- 
+{% asset_img td_a-plague-tale_violet1.jpg "Hugo offers a violet to his sister Amicia, who bends down to allow him to put it in her hair." %} 
 
 While calling attention to the historical setting so directly might risk making the game feel too artificially nerdy and distract from the main gameplay experience, in *A Plague Tale* these systems help to promote players’ focus on the game world as they hunt for these optional objectives while also reinforcing the story and theme. And the historical nerd-lore attached to the game’s interface can be part of the hard-core gamer’s set of bells and whistles, as strategy games like the Civilization titles demonstrate.
 
@@ -78,6 +73,7 @@ Although stirring great empathy, the characters never feel very much like avatar
 
 Within those pre-drawn lines, *A Plague Tale* grants players situational freedom to interact with its romanticized medieval aesthetic and its moral depth. This is most evident when the player has to decide whether or not to save strangers from being killed or whether or not to allow guilty enemies to die in the process of solving a problem. Choosing to save lives requires more thought and skill and rewards the player with the immediate narrative recognition of the accomplishment in the succinct scripted moments of character interaction. These scripted events recognize the moral significance as well as the emotional impact inherent in the player’s choice. The game excels at accommodating multiple strategies and for rewarding ingenuity and small-scale exploration, and the most significant of those rewards are the secret, spontaneous beats -- scripted dialog and reactions, as well as alternative solutions and optional places to explore in the various chapters.
 
+{% asset_img td_a-plague-tale_gnostic-puzzle "Amicia and lucas staring at a Gnostic symbol illuminated by fire beneath the floor tiles" %}
 
 Player agency in *A Plague Tale* arises out of its gameplay mechanics. The primary gameplay genre is definitively [stealth](https://en.wikipedia.org/wiki/Stealth_game), firmly in the tradition of live action games where success is dependent on one’s ability to sneak past enemies or otherwise to avoid direct conflict. In *A Plague Tale*, standing and fighting is not an option, but players are still afforded the choice of how to get by the numerous opponents. Tactics include higher violence solutions involving Amicia’s ranged attack with her sling and lower-violence solutions based on distracting enemies.
 
@@ -91,7 +87,7 @@ And the game can be hard.
 
 Traditional hardcore gaming elements abound, even those as simplistic as arcade-like boss-fights, of which there are three. While the game evokes comparisons on the one hand with artistic narrative-driven indie titles, it also feels like a console action-adventure game such as, for instance, the 2013 Tomb Raider, with which it shares several conceptual characteristics -- adventure-style narrative and spatial puzzles, live action mechanics, equipment upgrades, and female action heroine protagonists. Though Laura Croft may have more toys at her disposal, Amicia De Rune and *A Plague Tale* possess a level of self-sufficient confidence that the hipsters can only play at.
 
- 
+{% asset_img td_a-plague-tale_amicia-crawling-through-bones.jpg "Amicia crawling through bones" %} 
 
 *A Plague Tale* falls into a gray area between the conventional classifications of a mainstream “AAA” videogame and an indie game. Journalists seem to classify it as an indie work, and the validity of that designation is granted by the immersiveness, artistry, and lack of reliance on traditional combat, while its difficult gameplay and its traditional milieu reflect the expectations of the mainstream gaming community. It manages to be both a game that focuses on delivering an artistic experience and a game that is conventionally fun to play. 
 
@@ -107,14 +103,14 @@ While *A Plague Tale* is indeed serious and may well be frightening, even its sh
 
 
 Because the childhood characters are so justified in their tragedy, the game has a pervasive childlike quality. This creates that sense of adorableness that the fan community has picked up on. The dark tragedy in the game is part of its identity but does not dominate the titular quality of innocence. It is this aesthetic duality of the coexistence without contamination of virtue with stark horror that empowers the game’s more explicit narrative duality concerning the disparity of childhood and adulthood.
- 
+
+{% asset_img td_a-plague-tale_discs.jpg "The cases for the Xbox One and PlayStation 4 versions of A Plague Tale, standing upright on a wooden tile floor" %}
 
 For in *A Plague Tale*, the children are fighting to preserve and defend their parents instead of the other way around. The story makes Sir Robert and Lady Béatrice De Rune empathetic in a different and complementary way to the way in which their children are empathetic. In the story, adult and elderly characters are evil antagonists trying to destroy the innocent children and teenagers; however, the plot rises above a simple exultation of youth by the deliberate redemption of adulthood by the efforts of the oppressed children. Out of all the emotional chords played by the game, this is perhaps its most compelling: it bridges the gap between unspoiled childhood and broken adulthood by inviting adult players to forgive themselves and to accompany the children in the justified struggle against corruption.
 
 In the end, Amicia and her little brother face down the institutional corruption in their diseased world. Coronavirus had been breaking news during the hype from the Steam and NVGTR Awards, and the player community has reveled in the coincidence of *A Plague Tale* depicting the effects of an uncontrolled infectious disease. This timely coincidence has given *A Plague Tale* the relevance to be for some of us a standard raised in the midst of nearly absolute uncertainty, fluttering above the bloody soil where the powers clash over the right to control the diseased while feeding off the life-force of the honest.
 
 To keep that standard in perspective, let’s leave it planted upon the heights of the context that makes it so moving by closing with one final comparison: the anonymous medieval English poem entitled The Pearl. That poem was actually written in the very same century in which *A Plague Tale* is set. It is easy to imagine the young girl who is the subject of The Pearl, believed to be the daughter of the author and viewpoint narrator of that epic poem, as a contemporary of Amicia and Hugo from across the Channel. In lamentation of the death of his daughter, perhaps in the very same plague for which A Plague Tale was named, the author of The Pearl engaged in a lengthy lament on the concept of the death of the innocent. In one of the major sections, the specific refrain repeated at the end of each stanza reads in Middle English, “The innocent are safe by right.” The poem expresses the agonized confusion over the fact that innocent children suffer and die, and the poet’s conclusion resonates well with one of the strongest subjective narrative inferences from A Plague Tale, that though the innocent are vulnerable, though they are forced to suffer and to compromise, that even their camaraderie and friendship can be broken, they will be vindicated.
-
 
 Even if we find that we struggle to live up to that beautiful standard, we can uphold the universal aesthetic of innocence and seek to honor it in our interactions with others and with society. Come what may for the twenty-first century or for Asobo’s greatly anticipated sequel in the fourteenth, the gaming community is richer for the magnificent depiction of family honor in A Plague Tale: Innocence.
 
