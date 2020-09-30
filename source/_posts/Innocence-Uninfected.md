@@ -2,7 +2,7 @@
 layout: post
 title: 'Children of the First Pandemic'
 subtitle: 'Review of <i>A Plague Tale: Innocence</i>'
-post_main_image: td_a-plague-tale_review-cover-ssgensmall
+post_main_image: td_a-plague-tale_review-cover-ssgensmall.jpg
 main_image_alt: Amicia and Hugo De Rune lightinging candles at a side altar in a church
 date: 2020-09-29 10:11:40
 tags: [fantasy, low-fantasy, historical, pc-game, console-game, christianity, stealth-game, family]
