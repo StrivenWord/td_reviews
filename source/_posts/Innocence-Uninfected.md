@@ -4,8 +4,8 @@ title: 'Children of the First Pandemic'
 subtitle: '<i>A Plague Tale: Innocence</i> as Folktale'
 post_main_image: children-of-the-first-pandemic.jpg
 main_image_alt: screenshot of A Plague Tale Innocence featuring Amicia and Hugo in a dark church crypt looking a three statues with the sunlight coming in behind the statues]]
-date: 2020-06-24 02:09:40
-tags: [fantasy, low-fantasy, historical, pc-game]
+date: 2020-09-29 10:11:40
+tags: [fantasy, low-fantasy, historical, pc-game, console-game, christianity, stealth-game, family]
 ---
 
 
@@ -112,6 +112,6 @@ In the end, Amicia and her little brother face down the institutional corruption
 
 To keep that standard in perspective, let’s leave it planted upon the heights of the context that makes it so moving by closing with one final comparison: the anonymous medieval English poem entitled The Pearl. That poem was actually written in the very same century in which *A Plague Tale* is set. It is easy to imagine the young girl who is the subject of The Pearl, believed to be the daughter of the author and viewpoint narrator of that epic poem, as a contemporary of Amicia and Hugo from across the Channel. In lamentation of the death of his daughter, perhaps in the very same plague for which A Plague Tale was named, the author of The Pearl engaged in a lengthy lament on the concept of the death of the innocent. In one of the major sections, the specific refrain repeated at the end of each stanza reads in Middle English, “The innocent are safe by right.” The poem expresses the agonized confusion over the fact that innocent children suffer and die, and the poet’s conclusion resonates well with one of the strongest subjective narrative inferences from A Plague Tale, that though the innocent are vulnerable, though they are forced to suffer and to compromise, that even their camaraderie and friendship can be broken, they will be vindicated.
 
-Even if we find that we struggle to live up to that beautiful standard, we can uphold the universal aesthetic of innocence and seek to honor it in our interactions with others and with society. Come what may for the twenty-first century or for Asobo’s greatly anticipated sequel in the fourteenth, the gaming community is richer for the magnificent depiction of family honor in A Plague Tale: Innocence.
+Even if we find that we struggle to live up to that beautiful standard, we can uphold the universal aesthetic of innocence and seek to honor it in our interactions with others and with society. Come what may for the twenty-first century or for Asobo’s greatly anticipated sequel in the fourteenth, the gaming community is richer for the magnificent depiction of family honor in *A Plague Tale: Innocence*.
 
 
