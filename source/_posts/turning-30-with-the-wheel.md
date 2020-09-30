@@ -14,7 +14,9 @@ You stand in the center of mountain stadium, beneath the collective gaze of the 
 
 Now in production as a series for eventual streaming on Amazon Prime, the epically huge epic fantasy series *The Wheel of Time* became my story throughout my young adulthood. It helped me navigate my many conflicting identities during my high school and college years. Those conflicts were particularly fierce for me due to the difference between the small community surrounding my religious high school and the public college education I pursued in the same local community.
 
-As I approach my 30th year of life – I was born in 1991, two years before the publication of the first book in *The Wheel of Time* – I’m still struggling to figure out how all the parts of my identity fit together. By casting its coming-of-age plot arc within the timeless cast of the alternate world fantasy setting containing many different factions defined by ideologies, ethnicities, and politics, The Wheel of Time became a library of vivid conflicts and folksy anecdotes that have come frequently to my mind over the years.
+As I approach my 30th year of life – I was born in 1991, two years before the publication of the first book in *The Wheel of Time* – I’m still struggling to figure out how all the parts of my identity fit together. By casting its coming-of-age plot arc within the timeless cast of the alternate world fantasy setting containing many different factions defined by ideologies, ethnicities, and politics, *The Wheel of Time* became a library of vivid conflicts and folksy anecdotes that have come frequently to my mind over the years.
+
+<!-- more -->
 
 A little older, perhaps a little wiser, I will use this live action adaptation to relive my own past wile weaving its experiences into the pattern of the future. If I could, I would channel the voice of prophecy, unraveling the thread of my life to counsel an awkward and lonely student, uttering lessons learned in an age yet to come, an age long past.
 
